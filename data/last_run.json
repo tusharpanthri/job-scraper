@@ -1,10 +1,10 @@
 {
-  "last_run": "2026-07-08T06:29:00-04:00",
+  "last_run": "2026-07-08T08:48:14-04:00",
   "boards_scraped": 88,
   "mode": "all_titles_last_3_days",
   "us_only": true,
   "within_days": 3,
-  "within_3d": 3328,
-  "new_this_run": 28,
-  "priority_today_yesterday": 1801
+  "within_3d": 3383,
+  "new_this_run": 75,
+  "priority_today_yesterday": 1865
 }
