@@ -1,3 +1,2 @@
-{"company": "PwC Experienced", "endpoint": "https://pwc.wd3.myworkdayjobs.com/wday/cxs/pwc/Global_Experienced_Careers/jobs", "offset": 100, "error": "PwC Experienced: TIMEOUT @ offset=100"}
-{"company": "PwC Campus", "endpoint": "https://pwc.wd3.myworkdayjobs.com/wday/cxs/pwc/Global_Campus_Careers/jobs", "offset": 20, "error": "PwC Campus: TIMEOUT @ offset=20"}
 {"company": "Charles Schwab", "endpoint": "https://schwab.wd1.myworkdayjobs.com/wday/cxs/schwab/External/jobs", "offset": 0, "status": 422, "error": "422 Client Error: Unprocessable Entity for url: https://schwab.wd1.myworkdayjobs.com/wday/cxs/schwab/External/jobs"}
+{"company": "Humana", "endpoint": "https://humana.wd5.myworkdayjobs.com/wday/cxs/humana/Humana_External_Career_Site/jobs", "offset": 0, "error": "Humana: TIMEOUT @ offset=0"}
