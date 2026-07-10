@@ -1,2 +1,2 @@
-{"company": "NVIDIA", "endpoint": "https://nvidia.wd5.myworkdayjobs.com/wday/cxs/nvidia/NVIDIAExternalCareerSite/jobs", "offset": 120, "status": 502, "error": "502 Server Error: Bad Gateway for url: https://nvidia.wd5.myworkdayjobs.com/wday/cxs/nvidia/NVIDIAExternalCareerSite/jobs"}
+{"company": "Citi", "endpoint": "https://citi.wd5.myworkdayjobs.com/wday/cxs/citi/2/jobs", "offset": 380, "status": 502, "error": "502 Server Error: Bad Gateway for url: https://citi.wd5.myworkdayjobs.com/wday/cxs/citi/2/jobs"}
 {"company": "Charles Schwab", "endpoint": "https://schwab.wd1.myworkdayjobs.com/wday/cxs/schwab/External/jobs", "offset": 0, "status": 422, "error": "422 Client Error: Unprocessable Entity for url: https://schwab.wd1.myworkdayjobs.com/wday/cxs/schwab/External/jobs"}
