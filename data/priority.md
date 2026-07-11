@@ -1,6 +1,6 @@
-# Priority: Today/Yesterday — 2026-07-11T17:59:55-04:00
+# Priority: Today/Yesterday — 2026-07-11T19:01:41-04:00
 
-1589 roles
+1592 roles
 
 | Company | Posted | New? | Role | Location | Link |
 |---|---|---|---|---|---|
@@ -46,12 +46,13 @@
 | Truist | Posted Today |  | Part Time Universal Banker- 20 Hours- Hunters Trace | Louisville, KY | https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Louisville-KY/Part-Time-Universal-Banker--20-Hours--Hunters-Trace_R0116141 |
 | U.S. Bank | Posted Today |  | Senior Model Validation Analyst – Compliance & Financial Crimes (AML, Sanctions and Fair Lending) | 4 Locations | https://usbank.wd1.myworkdayjobs.com/en-US/US_Bank_Careers/job/Minneapolis-MN/Senior-Model-Validation-Analyst---Compliance---Financial-Crimes--AML--Sanctions-and-Fair-Lending-_2026-0020172-1 |
 | USAA | Posted Today |  | AVP, Application Development - USAA Investment Services Company (ISCO) | 5 Locations | https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/San-Antonio-Home-Office-I/AVP--Application-Development---USAA-Investment-Services-Company--ISCO-_R0117624 |
+| USAA | Posted Today | NEW | AVP, Marketing Technology Activation and Growth, P&C Marketing | 5 Locations | https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/San-Antonio-Home-Office-I/AVP--Marketing-Technology-Activation-and-Growth--P-C-Marketing_R0118682 |
 | USAA | Posted Today |  | AVP, Program / Project Management - Life Company | 3 Locations | https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/San-Antonio-Home-Office-I/AVP--Program---Project-Management---Life-Company_R0118675-1 |
-| USAA | Posted Today | NEW | VP, Risk Management - Property & Casualty (P&C) Risk | 5 Locations | https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/San-Antonio-Home-Office-I/VP--Risk-Management---Property---Casualty-Risk_R0117838 |
+| USAA | Posted Today |  | VP, Risk Management - Property & Casualty (P&C) Risk | 5 Locations | https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/San-Antonio-Home-Office-I/VP--Risk-Management---Property---Casualty-Risk_R0117838 |
 | Wells Fargo | Posted Today |  | Associate Customer Service Representative Spanish Bilingual Everyday Banking | IRVING, TX | https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/IRVING-TX/Associate-Customer-Service-Representative-Spanish-Bilingual-Everyday-Banking_R-558526 |
 | Wells Fargo | Posted Today |  | Branch Manager - Summit Mountains | 3 Locations | https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/FRISCO-CO/Branch-Manager---Summit-Mountains_R-548286 |
 | Wells Fargo | Posted Today |  | Relationship Banker Prestonwood Town Center | DALLAS, TX | https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/DALLAS-TX/Relationship-Banker-Prestonwood-Town-Center_R-557731 |
-| Wells Fargo | Posted Today | NEW | Teller Part Time Whittier | WHITTIER, CA | https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/WHITTIER-CA/Teller-Part-Time-Whittier_R-556099 |
+| Wells Fargo | Posted Today |  | Teller Part Time Whittier | WHITTIER, CA | https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/WHITTIER-CA/Teller-Part-Time-Whittier_R-556099 |
 | Workday | Posted Today |  | Senior Engagement Manager, AI Solutions Delivery | 64 Locations | https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USA-NY-Remote/Senior-Engagement-Manager--AI-Solutions-Delivery_JR-0107750 |
 | ASML | Posted Yesterday |  | Head of Material Planning - Wilton | Wilton, CT, USA | https://asml.wd3.myworkdayjobs.com/en-US/ASMLEXT1/job/Wilton-CT-USA/Head-of-Material-Planning---Wilton_J-00342669 |
 | ASML | Posted Yesterday |  | Head of System Domain Architecture | San Jose, CA, USA | https://asml.wd3.myworkdayjobs.com/en-US/ASMLEXT1/job/San-Jose-CA-USA/Head-of-System-Domain-Architecture_J-00338806 |
@@ -156,7 +157,6 @@
 | Barclays | Posted Yesterday |  | AVP - ST&I Recovery Resolution planning | 2 Locations | https://barclays.wd3.myworkdayjobs.com/en-US/External_Career_Site_Barclays/job/Chennai-DLF-IT-Park/AVP---ST-I-Recovery-Resolution-planning_JR-0000119542 |
 | Barclays | Posted Yesterday |  | AVP Wholesale Impairments - Actuals & Stress Testing | 2 Locations | https://barclays.wd3.myworkdayjobs.com/en-US/External_Career_Site_Barclays/job/Noida-Candor-TechSpace/AVP-Wholesale-Impairments---Actuals---Stress-Testing_JR-0000119174 |
 | Barclays | Posted Yesterday |  | Agile Culture Lead - Group Control | 4 Locations | https://barclays.wd3.myworkdayjobs.com/en-US/External_Career_Site_Barclays/job/Manchester-4-Piccadilly-Place/Agile-Culture-Lead---Group-Control_JR-0000116433 |
-| Barclays | Posted Yesterday |  | Agile Master Coach | 3 Locations | https://barclays.wd3.myworkdayjobs.com/en-US/External_Career_Site_Barclays/job/Glasgow-Campus/Agile-Master-Coach_JR-0000117045-1 |
 | Barclays | Posted Yesterday |  | Customer Care Leader | 2 Locations | https://barclays.wd3.myworkdayjobs.com/en-US/External_Career_Site_Barclays/job/Manchester-4-Piccadilly-Place/Customer-Care-Leader_JR-0000120112 |
 | Barclays | Posted Yesterday |  | Director of AI & Digital Design-D | 2 Locations | https://barclays.wd3.myworkdayjobs.com/en-US/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/Director-of-AI---Digital-Design-D_JR-0000120265 |
 | Barclays | Posted Yesterday |  | Fraud Data Scientist | 3 Locations | https://barclays.wd3.myworkdayjobs.com/en-US/External_Career_Site_Barclays/job/Northampton-Barclays-Campus-Pavilion-Drive/Fraud-Data-Scientist_JR-0000091917 |
@@ -1376,6 +1376,7 @@
 | Wells Fargo | Posted Yesterday |  | Branch Operations Coordinator Lubbock Main TX | LUBBOCK, TX | https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/LUBBOCK-TX/Branch-Operations-Coordinator-Lubbock-Main-TX_R-556522-1 |
 | Wells Fargo | Posted Yesterday |  | Branch Operations Coordinator North Palm Beach | 6 Locations | https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/JUPITER-FL/Branch-Operations-Coordinator-North-Palm-Beach_R-559830 |
 | Wells Fargo | Posted Yesterday |  | Branch Operations Coordinator Parmer Ranch | 2 Locations | https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/GEORGETOWN-TX/Branch-Operations-Coordinator-Greater-Georgetown_R-556579 |
+| Wells Fargo | Posted Yesterday |  | Branch Operations Coordinator Richmond | ALBUQUERQUE, NM | https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/ALBUQUERQUE-NM/Branch-Operations-Coordinator-Richmond_R-557329 |
 | Wells Fargo | Posted Yesterday |  | Branch Operations Coordinator South Boynton | BOYNTON BEACH, FL | https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/BOYNTON-BEACH-FL/Branch-Operations-Coordinator-South-Boynton_R-558682 |
 | Wells Fargo | Posted Yesterday |  | Branch Operations Coordinator at The Hub at RTP Branch in Durham NC | DURHAM, NC | https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/DURHAM-NC/Branch-Operations-Coordinator-at-The-Hub-at-RTP-Branch-in-Durham-NC_R-547545 |
 | Wells Fargo | Posted Yesterday |  | Branch Operations Manager North Victorville | VICTORVILLE, CA | https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/VICTORVILLE-CA/Branch-Operations-Manager-North-Victorville_R-559038-1 |
@@ -1518,6 +1519,7 @@
 | Wells Fargo | Posted Yesterday |  | Senior Treasury Management Consultant | 5 Locations | https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/ATLANTA-GA/Senior-Treasury-Management-Consultant_R-543432 |
 | Wells Fargo | Posted Yesterday |  | Specialty Software Engineering Senior Manager FICC (Fixed Income, Currencies, and Commodities) | NEW YORK, NY | https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/NEW-YORK-NY/Specialty-Software-Engineering-Senior-Manager-FICC--Fixed-Income--Currencies--and-Commodities-_R-547817 |
 | Wells Fargo | Posted Yesterday |  | Specialty Software Engineering Senior Manager FICC (Fixed Income, Currencies, and Commodities) | NEW YORK, NY | https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/NEW-YORK-NY/Specialty-Software-Engineering-Senior-Manager-FICC--Fixed-Income--Currencies--and-Commodities-_R-559916 |
+| Wells Fargo | Posted Yesterday |  | Systems Operations Senior Manager – Cloud Platform Operations | CHARLOTTE, NC | https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/CHARLOTTE-NC/Systems-Operations-Senior-Manager---Cloud-Platform-Operations_R-542362 |
 | Wells Fargo | Posted Yesterday |  | Technology Workplace Lead Consultant | CHARLOTTE, NC | https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/CHARLOTTE-NC/Technology-Workplace-Lead-Consultant_R-558869 |
 | Wells Fargo | Posted Yesterday |  | Teller 20 Hours Kuykendahl & Woodlands Pkwy | THE WOODLANDS, TX | https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/THE-WOODLANDS-TX/Teller-20-Hours-Kuykendahl---Woodlands-Pkwy_R-560118 |
 | Wells Fargo | Posted Yesterday |  | Teller Benbrook | BENBROOK, TX | https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/BENBROOK-TX/Teller-Benbrook_R-559215 |
@@ -1551,6 +1553,7 @@
 | Wells Fargo | Posted Yesterday |  | Teller Part Time Irvine | IRVINE, CA | https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/IRVINE-CA/Teller-Part-Time-Irvine_R-557358 |
 | Wells Fargo | Posted Yesterday |  | Teller Part Time Johns Island | JOHNS ISLAND, SC | https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/JOHNS-ISLAND-SC/Teller-Part-Time-Johns-Island_R-558955 |
 | Wells Fargo | Posted Yesterday |  | Teller Part Time La Costa Town Square | CARLSBAD, CA | https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/CARLSBAD-CA/Teller-Part-Time-La-Costa-Town-Square_R-559014 |
+| Wells Fargo | Posted Yesterday |  | Teller Part Time Lighthouse Point | LIGHTHOUSE POINT, FL | https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/LIGHTHOUSE-POINT-FL/Teller-Part-Time-Lighthouse-Point_R-559722 |
 | Wells Fargo | Posted Yesterday |  | Teller Part Time Los Angeles Baldwin Hills Crenshaw | LOS ANGELES, CA | https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/LOS-ANGELES-CA/Teller-Part-Time-Los-Angeles-Baldwin-Hills-Crenshaw_R-559673 |
 | Wells Fargo | Posted Yesterday |  | Teller Part Time Marketplace at Delray | DELRAY BEACH, FL | https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/DELRAY-BEACH-FL/Teller-Part-Time-Marketplace-at-Delray_R-552287-1 |
 | Wells Fargo | Posted Yesterday |  | Teller Part Time McAlpin Square | SAVANNAH, GA | https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/SAVANNAH-GA/Teller-Part-Time-McAlpin-Square_R-559255 |
