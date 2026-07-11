@@ -1,16 +1,24 @@
-# Priority: Today/Yesterday — 2026-07-11T11:07:05-04:00
+# Priority: Today/Yesterday — 2026-07-11T12:07:13-04:00
 
-1554 roles
+1561 roles
 
 | Company | Posted | New? | Role | Location | Link |
 |---|---|---|---|---|---|
 | Bank of America | Posted Today |  | Relationship Banker - Coastal Carolinas Market | 3 Locations | https://ghr.wd1.myworkdayjobs.com/en-US/Lateral-US/job/Wilmington/Relationship-Banker---Coastal-Carolinas-Market_26023752 |
 | Bank of America | Posted Today |  | Senior Software Engineer – Kubernetes Platform Engineering, Service Mesh & Developer Platforms (Golang APIs) | 3 Locations | https://ghr.wd1.myworkdayjobs.com/en-US/Lateral-US/job/Jersey-City/Senior-Software-Engineer---Kubernetes-Platform-Engineering--Service-Mesh---Developer-Platforms--Golang-APIs-_26023579 |
-| Cigna / Evernorth | Posted Today | NEW | Business Analytics Advisor, C&CE Workforce Management - Evernorth - Remote | United States Work at Home | https://cigna.wd5.myworkdayjobs.com/en-US/cignacareers/job/United-States-Work-at-Home/Business-Analytics-Advisor--C-CE-Workforce-Management---Evernorth---Remote_26006371 |
-| NVIDIA | Posted Today | NEW | Senior Solutions Architect | 2 Locations | https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Solutions-Architect_JR2000169 |
+| CenterWell | Posted Today | NEW | Home Health Licensed Practical Nurse | Osage Beach, MO | https://humana.wd5.myworkdayjobs.com/en-US/CenterWell_External_Career_Site/job/Osage-Beach-MO/Home-Health-Licensed-Practical-Nurse_R-416001 |
+| CenterWell | Posted Today | NEW | Home Health Physical Therapist | Flint, MI | https://humana.wd5.myworkdayjobs.com/en-US/CenterWell_External_Career_Site/job/Flint-MI/Home-Health-Physical-Therapist_R-416211 |
+| CenterWell | Posted Today | NEW | Home Health Registered Nurse-PRN | Farmington, MO | https://humana.wd5.myworkdayjobs.com/en-US/CenterWell_External_Career_Site/job/Farmington-MO/Home-Health-Registered-Nurse-PRN_R-416480 |
+| Cigna / Evernorth | Posted Today |  | Business Analytics Advisor, C&CE Workforce Management - Evernorth - Remote | United States Work at Home | https://cigna.wd5.myworkdayjobs.com/en-US/cignacareers/job/United-States-Work-at-Home/Business-Analytics-Advisor--C-CE-Workforce-Management---Evernorth---Remote_26006371 |
+| Elevance Health | Posted Today | NEW | Secure Data Pipeline Data Engineer | 6 Locations | https://elevancehealth.wd1.myworkdayjobs.com/en-US/ANT/job/IN-INDIANAPOLIS-220-VIRGINIA-AVE/Data-Engineer-Secure-Data-Pipelines_JR191679-1 |
+| NVIDIA | Posted Today | NEW | Senior Corporate Accountant | US, CA, Santa Clara | https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Corporate-Accountant_JR2004666 |
+| NVIDIA | Posted Today |  | Senior Firmware Engineer -  Development, Verification and Infrastructure | US, CA, Santa Clara | https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Firmware-Engineer_JR2007787 |
+| NVIDIA | Posted Today |  | Senior Manager, Datacenter Software - Firmware Release | 3 Locations | https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Manager--Datacenter-Software---Firmware-Release_JR2017131 |
+| NVIDIA | Posted Today |  | Senior Solutions Architect | 2 Locations | https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Solutions-Architect_JR2000169 |
 | Thermo Fisher | Posted Today |  | Clinical Research Associate (various Levels) | 2 Locations | https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Remote-Spain/Clinical-Research-Associate--various-Levels-_R-01358166 |
 | Thermo Fisher | Posted Today |  | Sales Development Manager - Clinical Diagnostic Division | Remote, Vietnam | https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Remote-Vietnam/Sales-Development-Manager---Clinical-Diagnostic-Division_R-01357350 |
 | Truist | Posted Today |  | Enterprise Performance Senior Manager | 3 Locations | https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Charlotte-NC/Enterprise-Performance-Senior-Manager_R0116345 |
+| U.S. Bank | Posted Today | NEW | Senior Model Validation Analyst – Compliance & Financial Crimes (AML, Sanctions and Fair Lending) | 4 Locations | https://usbank.wd1.myworkdayjobs.com/en-US/US_Bank_Careers/job/Minneapolis-MN/Senior-Model-Validation-Analyst---Compliance---Financial-Crimes--AML--Sanctions-and-Fair-Lending-_2026-0020172-1 |
 | Wells Fargo | Posted Today |  | Relationship Banker Prestonwood Town Center | DALLAS, TX | https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/DALLAS-TX/Relationship-Banker-Prestonwood-Town-Center_R-557731 |
 | ASML | Posted Yesterday |  | Head of Material Planning - Wilton | Wilton, CT, USA | https://asml.wd3.myworkdayjobs.com/en-US/ASMLEXT1/job/Wilton-CT-USA/Head-of-Material-Planning---Wilton_J-00342669 |
 | ASML | Posted Yesterday |  | Head of System Domain Architecture | San Jose, CA, USA | https://asml.wd3.myworkdayjobs.com/en-US/ASMLEXT1/job/San-Jose-CA-USA/Head-of-System-Domain-Architecture_J-00338806 |
@@ -1538,7 +1546,6 @@
 | Wells Fargo | Posted Yesterday |  | Teller Part Time Tidwell | HOUSTON, TX | https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/HOUSTON-TX/Teller-Part-Time-Tidwell_R-558196 |
 | Wells Fargo | Posted Yesterday |  | Teller Part Time Tri City | PALM DESERT, CA | https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/PALM-DESERT-CA/Teller-Part-Time-Tri-City_R-559449-1 |
 | Wells Fargo | Posted Yesterday |  | Teller Part Time Tustin Legacy | TUSTIN, CA | https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/TUSTIN-CA/Teller-Part-Time-Tustin-Legacy_R-559910-1 |
-| Wells Fargo | Posted Yesterday |  | Teller Part Time Victoria Park | FORT LAUDERDALE, FL | https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/FORT-LAUDERDALE-FL/Teller-Part-Time-Victoria-Park_R-550451 |
 | Wells Fargo | Posted Yesterday |  | Teller Part Time Wayside and Harrisburg | HOUSTON, TX | https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/HOUSTON-TX/Teller-Part-Time-Wayside-and-Harrisburg_R-559369 |
 | Wells Fargo | Posted Yesterday |  | Teller Part Time Wayside and Harrisburg | HOUSTON, TX | https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/HOUSTON-TX/Teller-Part-Time-Wayside-and-Harrisburg_R-559346 |
 | Wells Fargo | Posted Yesterday |  | Teller Part Time Wilsonville | WILSONVILLE, OR | https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/WILSONVILLE-OR/Teller-Part-Time-Wilsonville_R-559752 |
