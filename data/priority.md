@@ -1,6 +1,6 @@
-# Priority: Today/Yesterday — 2026-07-11T17:01:03-04:00
+# Priority: Today/Yesterday — 2026-07-11T17:59:55-04:00
 
-1586 roles
+1589 roles
 
 | Company | Posted | New? | Role | Location | Link |
 |---|---|---|---|---|---|
@@ -26,26 +26,32 @@
 | Citi | Posted Today |  | Senior Backend Developer Assistant Vice President | Irving Texas United States | https://citi.wd5.myworkdayjobs.com/en-US/2/job/Irving-Texas-United-States/Senior-Backend-Developer-Assistant-Vice-President_26977746 |
 | Elevance Health | Posted Today |  | Secure Data Pipeline Data Engineer | 6 Locations | https://elevancehealth.wd1.myworkdayjobs.com/en-US/ANT/job/IN-INDIANAPOLIS-220-VIRGINIA-AVE/Data-Engineer-Secure-Data-Pipelines_JR191679-1 |
 | Humana | Posted Today |  | VP, Application Reliability & Operations Engineering | Remote Nationwide | https://humana.wd5.myworkdayjobs.com/en-US/Humana_External_Career_Site/job/Remote-Nationwide/VP--Application-Reliability---Operations-Engineering_R-418797-1 |
+| NVIDIA | Posted Today |  | Distinguished Engineer - Rack Scale Architecture | 2 Locations | https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Distinguished-Engineer---Rack-Scale-Architecture_JR2012293 |
 | NVIDIA | Posted Today |  | Senior Corporate Accountant | US, CA, Santa Clara | https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Corporate-Accountant_JR2004666 |
 | NVIDIA | Posted Today |  | Senior Firmware Engineer -  Development, Verification and Infrastructure | US, CA, Santa Clara | https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Firmware-Engineer_JR2007787 |
 | NVIDIA | Posted Today |  | Senior Manager, Datacenter Software - Firmware Release | 3 Locations | https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Manager--Datacenter-Software---Firmware-Release_JR2017131 |
+| NVIDIA | Posted Today |  | Senior Manager, Engineering - Data Center Firmware | 2 Locations | https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Manager--Engineering---Data-Center-Firmware_JR2019986 |
 | NVIDIA | Posted Today |  | Senior NPI Program Manager - Datacenter Server Products | US, CA, Santa Clara | https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-NPI-Program-Manager---Datacenter-Server-Products_JR1998353 |
 | NVIDIA | Posted Today |  | Senior Network Reliability Engineer - DGX Cloud | 2 Locations | https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Network-Reliability-Engineer---DGX-Cloud_JR2018113 |
 | NVIDIA | Posted Today |  | Senior Software Engineer - BaseOS | 2 Locations | https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer---BaseOS_JR2018594 |
 | NVIDIA | Posted Today |  | Senior Software Engineer - Datacenter Systems | 3 Locations | https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer---Datacenter-Systems_JR2017468 |
+| NVIDIA | Posted Today |  | Senior Software Engineer, At Scale Compute Analysis | 5 Locations | https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Systems-Data-Engineer_JR1999730 |
 | NVIDIA | Posted Today |  | Senior Software Program Manager - Datacenter Compute Server | US, CA, Santa Clara | https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Program-Manager---Datacenter-Compute-Server_JR1996363 |
 | NVIDIA | Posted Today |  | Senior Solutions Architect | 2 Locations | https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Solutions-Architect_JR2000169 |
+| NVIDIA | Posted Today |  | Senior Systems Software Engineer - GPU Performance at Scale | 5 Locations | https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Performance-Engineer_JR1996987 |
 | NVIDIA | Posted Today |  | Software Engineering Manager - GPU Communications Libraries | US, CA, Santa Clara | https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineering-Manager---GPU-Communications-Libraries_JR1980109 |
 | Thermo Fisher | Posted Today |  | Clinical Research Associate (various Levels) | 2 Locations | https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Remote-Spain/Clinical-Research-Associate--various-Levels-_R-01358166 |
 | Thermo Fisher | Posted Today |  | Sales Development Manager - Clinical Diagnostic Division | Remote, Vietnam | https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Remote-Vietnam/Sales-Development-Manager---Clinical-Diagnostic-Division_R-01357350 |
 | Truist | Posted Today |  | Enterprise Performance Senior Manager | 3 Locations | https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Charlotte-NC/Enterprise-Performance-Senior-Manager_R0116345 |
 | Truist | Posted Today |  | Part Time Universal Banker- 20 Hours- Hunters Trace | Louisville, KY | https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Louisville-KY/Part-Time-Universal-Banker--20-Hours--Hunters-Trace_R0116141 |
 | U.S. Bank | Posted Today |  | Senior Model Validation Analyst – Compliance & Financial Crimes (AML, Sanctions and Fair Lending) | 4 Locations | https://usbank.wd1.myworkdayjobs.com/en-US/US_Bank_Careers/job/Minneapolis-MN/Senior-Model-Validation-Analyst---Compliance---Financial-Crimes--AML--Sanctions-and-Fair-Lending-_2026-0020172-1 |
-| USAA | Posted Today | NEW | AVP, Application Development - USAA Investment Services Company (ISCO) | 5 Locations | https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/San-Antonio-Home-Office-I/AVP--Application-Development---USAA-Investment-Services-Company--ISCO-_R0117624 |
+| USAA | Posted Today |  | AVP, Application Development - USAA Investment Services Company (ISCO) | 5 Locations | https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/San-Antonio-Home-Office-I/AVP--Application-Development---USAA-Investment-Services-Company--ISCO-_R0117624 |
 | USAA | Posted Today |  | AVP, Program / Project Management - Life Company | 3 Locations | https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/San-Antonio-Home-Office-I/AVP--Program---Project-Management---Life-Company_R0118675-1 |
+| USAA | Posted Today | NEW | VP, Risk Management - Property & Casualty (P&C) Risk | 5 Locations | https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/San-Antonio-Home-Office-I/VP--Risk-Management---Property---Casualty-Risk_R0117838 |
 | Wells Fargo | Posted Today |  | Associate Customer Service Representative Spanish Bilingual Everyday Banking | IRVING, TX | https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/IRVING-TX/Associate-Customer-Service-Representative-Spanish-Bilingual-Everyday-Banking_R-558526 |
 | Wells Fargo | Posted Today |  | Branch Manager - Summit Mountains | 3 Locations | https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/FRISCO-CO/Branch-Manager---Summit-Mountains_R-548286 |
 | Wells Fargo | Posted Today |  | Relationship Banker Prestonwood Town Center | DALLAS, TX | https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/DALLAS-TX/Relationship-Banker-Prestonwood-Town-Center_R-557731 |
+| Wells Fargo | Posted Today | NEW | Teller Part Time Whittier | WHITTIER, CA | https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/WHITTIER-CA/Teller-Part-Time-Whittier_R-556099 |
 | Workday | Posted Today |  | Senior Engagement Manager, AI Solutions Delivery | 64 Locations | https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USA-NY-Remote/Senior-Engagement-Manager--AI-Solutions-Delivery_JR-0107750 |
 | ASML | Posted Yesterday |  | Head of Material Planning - Wilton | Wilton, CT, USA | https://asml.wd3.myworkdayjobs.com/en-US/ASMLEXT1/job/Wilton-CT-USA/Head-of-Material-Planning---Wilton_J-00342669 |
 | ASML | Posted Yesterday |  | Head of System Domain Architecture | San Jose, CA, USA | https://asml.wd3.myworkdayjobs.com/en-US/ASMLEXT1/job/San-Jose-CA-USA/Head-of-System-Domain-Architecture_J-00338806 |
@@ -1370,7 +1376,6 @@
 | Wells Fargo | Posted Yesterday |  | Branch Operations Coordinator Lubbock Main TX | LUBBOCK, TX | https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/LUBBOCK-TX/Branch-Operations-Coordinator-Lubbock-Main-TX_R-556522-1 |
 | Wells Fargo | Posted Yesterday |  | Branch Operations Coordinator North Palm Beach | 6 Locations | https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/JUPITER-FL/Branch-Operations-Coordinator-North-Palm-Beach_R-559830 |
 | Wells Fargo | Posted Yesterday |  | Branch Operations Coordinator Parmer Ranch | 2 Locations | https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/GEORGETOWN-TX/Branch-Operations-Coordinator-Greater-Georgetown_R-556579 |
-| Wells Fargo | Posted Yesterday |  | Branch Operations Coordinator Richmond | ALBUQUERQUE, NM | https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/ALBUQUERQUE-NM/Branch-Operations-Coordinator-Richmond_R-557329 |
 | Wells Fargo | Posted Yesterday |  | Branch Operations Coordinator South Boynton | BOYNTON BEACH, FL | https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/BOYNTON-BEACH-FL/Branch-Operations-Coordinator-South-Boynton_R-558682 |
 | Wells Fargo | Posted Yesterday |  | Branch Operations Coordinator at The Hub at RTP Branch in Durham NC | DURHAM, NC | https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/DURHAM-NC/Branch-Operations-Coordinator-at-The-Hub-at-RTP-Branch-in-Durham-NC_R-547545 |
 | Wells Fargo | Posted Yesterday |  | Branch Operations Manager North Victorville | VICTORVILLE, CA | https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/VICTORVILLE-CA/Branch-Operations-Manager-North-Victorville_R-559038-1 |
@@ -1513,7 +1518,6 @@
 | Wells Fargo | Posted Yesterday |  | Senior Treasury Management Consultant | 5 Locations | https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/ATLANTA-GA/Senior-Treasury-Management-Consultant_R-543432 |
 | Wells Fargo | Posted Yesterday |  | Specialty Software Engineering Senior Manager FICC (Fixed Income, Currencies, and Commodities) | NEW YORK, NY | https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/NEW-YORK-NY/Specialty-Software-Engineering-Senior-Manager-FICC--Fixed-Income--Currencies--and-Commodities-_R-547817 |
 | Wells Fargo | Posted Yesterday |  | Specialty Software Engineering Senior Manager FICC (Fixed Income, Currencies, and Commodities) | NEW YORK, NY | https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/NEW-YORK-NY/Specialty-Software-Engineering-Senior-Manager-FICC--Fixed-Income--Currencies--and-Commodities-_R-559916 |
-| Wells Fargo | Posted Yesterday |  | Systems Operations Senior Manager – Cloud Platform Operations | CHARLOTTE, NC | https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/CHARLOTTE-NC/Systems-Operations-Senior-Manager---Cloud-Platform-Operations_R-542362 |
 | Wells Fargo | Posted Yesterday |  | Technology Workplace Lead Consultant | CHARLOTTE, NC | https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/CHARLOTTE-NC/Technology-Workplace-Lead-Consultant_R-558869 |
 | Wells Fargo | Posted Yesterday |  | Teller 20 Hours Kuykendahl & Woodlands Pkwy | THE WOODLANDS, TX | https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/THE-WOODLANDS-TX/Teller-20-Hours-Kuykendahl---Woodlands-Pkwy_R-560118 |
 | Wells Fargo | Posted Yesterday |  | Teller Benbrook | BENBROOK, TX | https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/BENBROOK-TX/Teller-Benbrook_R-559215 |
@@ -1547,7 +1551,6 @@
 | Wells Fargo | Posted Yesterday |  | Teller Part Time Irvine | IRVINE, CA | https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/IRVINE-CA/Teller-Part-Time-Irvine_R-557358 |
 | Wells Fargo | Posted Yesterday |  | Teller Part Time Johns Island | JOHNS ISLAND, SC | https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/JOHNS-ISLAND-SC/Teller-Part-Time-Johns-Island_R-558955 |
 | Wells Fargo | Posted Yesterday |  | Teller Part Time La Costa Town Square | CARLSBAD, CA | https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/CARLSBAD-CA/Teller-Part-Time-La-Costa-Town-Square_R-559014 |
-| Wells Fargo | Posted Yesterday |  | Teller Part Time Lighthouse Point | LIGHTHOUSE POINT, FL | https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/LIGHTHOUSE-POINT-FL/Teller-Part-Time-Lighthouse-Point_R-559722 |
 | Wells Fargo | Posted Yesterday |  | Teller Part Time Los Angeles Baldwin Hills Crenshaw | LOS ANGELES, CA | https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/LOS-ANGELES-CA/Teller-Part-Time-Los-Angeles-Baldwin-Hills-Crenshaw_R-559673 |
 | Wells Fargo | Posted Yesterday |  | Teller Part Time Marketplace at Delray | DELRAY BEACH, FL | https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/DELRAY-BEACH-FL/Teller-Part-Time-Marketplace-at-Delray_R-552287-1 |
 | Wells Fargo | Posted Yesterday |  | Teller Part Time McAlpin Square | SAVANNAH, GA | https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/SAVANNAH-GA/Teller-Part-Time-McAlpin-Square_R-559255 |
