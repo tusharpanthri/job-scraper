@@ -1,14 +1,17 @@
-# Priority: Today/Yesterday — 2026-07-11T09:46:58-04:00
+# Priority: Today/Yesterday — 2026-07-11T11:07:05-04:00
 
-1552 roles
+1554 roles
 
 | Company | Posted | New? | Role | Location | Link |
 |---|---|---|---|---|---|
 | Bank of America | Posted Today |  | Relationship Banker - Coastal Carolinas Market | 3 Locations | https://ghr.wd1.myworkdayjobs.com/en-US/Lateral-US/job/Wilmington/Relationship-Banker---Coastal-Carolinas-Market_26023752 |
 | Bank of America | Posted Today |  | Senior Software Engineer – Kubernetes Platform Engineering, Service Mesh & Developer Platforms (Golang APIs) | 3 Locations | https://ghr.wd1.myworkdayjobs.com/en-US/Lateral-US/job/Jersey-City/Senior-Software-Engineer---Kubernetes-Platform-Engineering--Service-Mesh---Developer-Platforms--Golang-APIs-_26023579 |
+| Cigna / Evernorth | Posted Today | NEW | Business Analytics Advisor, C&CE Workforce Management - Evernorth - Remote | United States Work at Home | https://cigna.wd5.myworkdayjobs.com/en-US/cignacareers/job/United-States-Work-at-Home/Business-Analytics-Advisor--C-CE-Workforce-Management---Evernorth---Remote_26006371 |
+| NVIDIA | Posted Today | NEW | Senior Solutions Architect | 2 Locations | https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Solutions-Architect_JR2000169 |
 | Thermo Fisher | Posted Today |  | Clinical Research Associate (various Levels) | 2 Locations | https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Remote-Spain/Clinical-Research-Associate--various-Levels-_R-01358166 |
 | Thermo Fisher | Posted Today |  | Sales Development Manager - Clinical Diagnostic Division | Remote, Vietnam | https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Remote-Vietnam/Sales-Development-Manager---Clinical-Diagnostic-Division_R-01357350 |
 | Truist | Posted Today |  | Enterprise Performance Senior Manager | 3 Locations | https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Charlotte-NC/Enterprise-Performance-Senior-Manager_R0116345 |
+| Wells Fargo | Posted Today |  | Relationship Banker Prestonwood Town Center | DALLAS, TX | https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/DALLAS-TX/Relationship-Banker-Prestonwood-Town-Center_R-557731 |
 | ASML | Posted Yesterday |  | Head of Material Planning - Wilton | Wilton, CT, USA | https://asml.wd3.myworkdayjobs.com/en-US/ASMLEXT1/job/Wilton-CT-USA/Head-of-Material-Planning---Wilton_J-00342669 |
 | ASML | Posted Yesterday |  | Head of System Domain Architecture | San Jose, CA, USA | https://asml.wd3.myworkdayjobs.com/en-US/ASMLEXT1/job/San-Jose-CA-USA/Head-of-System-Domain-Architecture_J-00338806 |
 | ASML | Posted Yesterday |  | Upgrade Install and Relocation Engineer | Austin, TX, USA | https://asml.wd3.myworkdayjobs.com/en-US/ASMLEXT1/job/Austin-TX-USA/Upgrade-Install-and-Relocation-Engineer_J-00347707 |
@@ -80,7 +83,6 @@
 | Applied Materials | Posted Yesterday |  | Sr. Director, EPG Manufacturing Operations Leader | 2 Locations | https://amat.wd1.myworkdayjobs.com/en-US/External/job/AustinTX/Sr-Director--EPG-Manufacturing-Operations-Leader_R2623355 |
 | Applied Materials | Posted Yesterday |  | TPRM Operations Analyst | Austin,TX | https://amat.wd1.myworkdayjobs.com/en-US/External/job/AustinTX/TPRM-Operations-Analyst_R2623433 |
 | Bank of America | Posted Yesterday |  | AWS - Infrastructure Senior Engineer | 3 Locations | https://ghr.wd1.myworkdayjobs.com/en-US/Lateral-US/job/Jersey-City/Senior-Engineer_26023191 |
-| Bank of America | Posted Yesterday |  | Commercial Associate - Middle Market (Indianapolis, IN/Cleveland, OH) | 2 Locations | https://ghr.wd1.myworkdayjobs.com/en-US/Lateral-US/job/Indianapolis/Commercial-Associate---Middle-Market--Indianapolis--IN-Cleveland--OH-_26023146-2 |
 | Bank of America | Posted Yesterday |  | Credit Officer II | 3 Locations | https://ghr.wd1.myworkdayjobs.com/en-US/Lateral-US/job/Dallas/Credit-Officer-II_26014663-2 |
 | Bank of America | Posted Yesterday |  | Financial Solutions Advisor -  Western MA Market | 2 Locations | https://ghr.wd1.myworkdayjobs.com/en-US/Lateral-US/job/Worcester/Financial-Solutions-Advisor----Western-MA-Market_26023804 |
 | Bank of America | Posted Yesterday |  | Merrill Advisor Development Program - Financial Advisor (Partially Licensed): San Diego Market | 2 Locations | https://ghr.wd1.myworkdayjobs.com/en-US/Lateral-US/job/Carlsbad/Merrill-Advisor-Development-Program---Financial-Advisor--Partially-Licensed---San-Diego-Market_26023741 |
