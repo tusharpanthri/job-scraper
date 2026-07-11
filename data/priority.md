@@ -1,11 +1,13 @@
-# Priority: Today/Yesterday — 2026-07-11T06:22:29-04:00
+# Priority: Today/Yesterday — 2026-07-11T08:00:29-04:00
 
-1551 roles
+1552 roles
 
 | Company | Posted | New? | Role | Location | Link |
 |---|---|---|---|---|---|
+| Bank of America | Posted Today | NEW | Relationship Banker - Coastal Carolinas Market | 3 Locations | https://ghr.wd1.myworkdayjobs.com/en-US/Lateral-US/job/Wilmington/Relationship-Banker---Coastal-Carolinas-Market_26023752 |
+| Bank of America | Posted Today | NEW | Senior Software Engineer – Kubernetes Platform Engineering, Service Mesh & Developer Platforms (Golang APIs) | 3 Locations | https://ghr.wd1.myworkdayjobs.com/en-US/Lateral-US/job/Jersey-City/Senior-Software-Engineer---Kubernetes-Platform-Engineering--Service-Mesh---Developer-Platforms--Golang-APIs-_26023579 |
 | Thermo Fisher | Posted Today |  | Clinical Research Associate (various Levels) | 2 Locations | https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Remote-Spain/Clinical-Research-Associate--various-Levels-_R-01358166 |
-| Thermo Fisher | Posted Today | NEW | Sales Development Manager - Clinical Diagnostic Division | Remote, Vietnam | https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Remote-Vietnam/Sales-Development-Manager---Clinical-Diagnostic-Division_R-01357350 |
+| Thermo Fisher | Posted Today |  | Sales Development Manager - Clinical Diagnostic Division | Remote, Vietnam | https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Remote-Vietnam/Sales-Development-Manager---Clinical-Diagnostic-Division_R-01357350 |
 | Truist | Posted Today |  | Enterprise Performance Senior Manager | 3 Locations | https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Charlotte-NC/Enterprise-Performance-Senior-Manager_R0116345 |
 | ASML | Posted Yesterday |  | Head of Material Planning - Wilton | Wilton, CT, USA | https://asml.wd3.myworkdayjobs.com/en-US/ASMLEXT1/job/Wilton-CT-USA/Head-of-Material-Planning---Wilton_J-00342669 |
 | ASML | Posted Yesterday |  | Head of System Domain Architecture | San Jose, CA, USA | https://asml.wd3.myworkdayjobs.com/en-US/ASMLEXT1/job/San-Jose-CA-USA/Head-of-System-Domain-Architecture_J-00338806 |
@@ -145,7 +147,6 @@
 | Bristol Myers Squibb | Posted Yesterday |  | Manager, IT Business Partnering Cell Therapy QC Systems | Bothell - WA - US | https://bristolmyerssquibb.wd5.myworkdayjobs.com/en-US/BMS/job/Bothell---WA---US/Manager--IT-Business-Partnering-Cell-Therapy-QC-Systems_R1603226 |
 | Bristol Myers Squibb | Posted Yesterday |  | Manager, Project Management, Cell Therapy Manufacturing | Bothell - WA - US | https://bristolmyerssquibb.wd5.myworkdayjobs.com/en-US/BMS/job/Bothell---WA---US/Manager--Project-Management--Cell-Therapy-Manufacturing_R1604268 |
 | Bristol Myers Squibb | Posted Yesterday |  | Principal Safety Scientist | New Brunswick - NJ - US | https://bristolmyerssquibb.wd5.myworkdayjobs.com/en-US/BMS/job/New-Brunswick---NJ---US/Principal-Scientist_R1601204 |
-| Bristol Myers Squibb | Posted Yesterday |  | Principal Scientist | San Diego - CA - US | https://bristolmyerssquibb.wd5.myworkdayjobs.com/en-US/BMS/job/San-Diego---CA---US/Principal-Scientist_R1604351 |
 | Bristol Myers Squibb | Posted Yesterday |  | Protein Analytics Scientist | Brisbane - CA - US | https://bristolmyerssquibb.wd5.myworkdayjobs.com/en-US/BMS/job/Brisbane---CA---US/Protein-Analytics-Scientist_R1603235 |
 | Bristol Myers Squibb | Posted Yesterday |  | Senior Institutional Mental Health Account Specialist, Neuroscience – COBENFY – Portland, OR | Portland - OR - US | https://bristolmyerssquibb.wd5.myworkdayjobs.com/en-US/BMS/job/Portland---OR---US/Senior-Institutional-Mental-Health-Account-Specialist--Neuroscience---COBENFY---Portland--OR_R1604269 |
 | Bristol Myers Squibb | Posted Yesterday |  | Senior Principal Scientist | Seattle 400 Dexter - WA - US | https://bristolmyerssquibb.wd5.myworkdayjobs.com/en-US/BMS/job/Seattle-400-Dexter---WA---US/Senior-Principal-Scientist_R1603194 |
@@ -593,7 +594,7 @@
 | Medtronic | Posted Yesterday |  | Principal CoreValve Therapy Development Specialist (Bay Area & Central Coast) | 6 Locations | https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Bay-Area-California-United-States-of-America/Principal-CoreValve-Therapy-Development-Specialist--Bay-Area---Central-Coast-_R62416-1 |
 | Medtronic | Posted Yesterday |  | Principal Customer Engagement Specialist - Digital Technologies | New York, New York, United States of America | https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/New-York-New-York-United-States-of-America/Principal-Customer-Engagement-Specialist---Digital-Technologies_R60951-1 |
 | Medtronic | Posted Yesterday |  | Principal Customer Engagement Specialist - Midwest Region | 3 Locations | https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Chicago-Illinois-United-States-of-America/Principal-Customer-Engagement-Specialist---Midwest-Region_R67934-1 |
-| Medtronic | Posted Yesterday | NEW | Principal Process Engineer - On-site | Salt Lake City, Utah, United States of America | https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Salt-Lake-City-Utah-United-States-of-America/Principal-Process-Engineer---On-site_R68935-1 |
+| Medtronic | Posted Yesterday |  | Principal Process Engineer - On-site | Salt Lake City, Utah, United States of America | https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Salt-Lake-City-Utah-United-States-of-America/Principal-Process-Engineer---On-site_R68935-1 |
 | Medtronic | Posted Yesterday |  | Principal Process Engineer, Advanced Manufacturing Team | Danvers, Massachusetts, United States of America | https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Danvers-Massachusetts-United-States-of-America/Principal-Process-Engineer--Advanced-Manufacturing-Team_R69213-1 |
 | Medtronic | Posted Yesterday |  | Principal Reliability Engineer | Mounds View, Minnesota, United States of America | https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Mounds-View-Minnesota-United-States-of-America/Principal-Reliability-Engineer_R62665-1 |
 | Medtronic | Posted Yesterday |  | Principal Sales Representative - CAS,  Little Rock, AR | Little Rock, Arkansas, United States of America | https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Little-Rock-Arkansas-United-States-of-America/Principal-Sales-Representative---CAS---Little-Rock--AR_R68373-1 |
