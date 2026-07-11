@@ -1,11 +1,12 @@
-# Priority: Today/Yesterday — 2026-07-11T04:55:45-04:00
+# Priority: Today/Yesterday — 2026-07-11T06:22:29-04:00
 
-1550 roles
+1551 roles
 
 | Company | Posted | New? | Role | Location | Link |
 |---|---|---|---|---|---|
 | Thermo Fisher | Posted Today |  | Clinical Research Associate (various Levels) | 2 Locations | https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Remote-Spain/Clinical-Research-Associate--various-Levels-_R-01358166 |
-| Truist | Posted Today | NEW | Enterprise Performance Senior Manager | 3 Locations | https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Charlotte-NC/Enterprise-Performance-Senior-Manager_R0116345 |
+| Thermo Fisher | Posted Today | NEW | Sales Development Manager - Clinical Diagnostic Division | Remote, Vietnam | https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Remote-Vietnam/Sales-Development-Manager---Clinical-Diagnostic-Division_R-01357350 |
+| Truist | Posted Today |  | Enterprise Performance Senior Manager | 3 Locations | https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Charlotte-NC/Enterprise-Performance-Senior-Manager_R0116345 |
 | ASML | Posted Yesterday |  | Head of Material Planning - Wilton | Wilton, CT, USA | https://asml.wd3.myworkdayjobs.com/en-US/ASMLEXT1/job/Wilton-CT-USA/Head-of-Material-Planning---Wilton_J-00342669 |
 | ASML | Posted Yesterday |  | Head of System Domain Architecture | San Jose, CA, USA | https://asml.wd3.myworkdayjobs.com/en-US/ASMLEXT1/job/San-Jose-CA-USA/Head-of-System-Domain-Architecture_J-00338806 |
 | ASML | Posted Yesterday |  | Upgrade Install and Relocation Engineer | Austin, TX, USA | https://asml.wd3.myworkdayjobs.com/en-US/ASMLEXT1/job/Austin-TX-USA/Upgrade-Install-and-Relocation-Engineer_J-00347707 |
@@ -195,7 +196,6 @@
 | CVS Health | Posted Yesterday |  | Sr Manager Corporate Compliance-Special Needs Plans (Clinical) | 5 Locations | https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/IL---Work-from-home/Sr-Manager-Corporate-Compliance-Special-Needs-Plans--Clinical-_R0887615 |
 | CVS Health | Posted Yesterday |  | Sr. Manager Corporate Compliance-Special Needs Plans | 5 Locations | https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/Field-Ohio/Sr-Manager-Corporate-Compliance-Special-Needs-Plans_R0907600 |
 | CVS Health | Posted Yesterday |  | Staff Software Architect | 12 Locations | https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/Work-At-Home-Massachusetts/Staff-Software-Architect_R0924584 |
-| CVS Health | Posted Yesterday |  | Store Associate | 2 Locations | https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/PA---Spring-City/Store-Associate_R0958046 |
 | CVS Health | Posted Yesterday |  | Store Associate | 2 Locations | https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/CA---Hesperia/Store-Associate_R0971957 |
 | Capital One | Posted Yesterday |  | Analyst, Capital Solutions | New York, NY | https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/New-York-NY/Analyst--Capital-Solutions_R246444-2 |
 | Capital One | Posted Yesterday |  | Analyst, Specialty Underwriting and Portfolio Manager - CRE | 3 Locations | https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Analyst--Specialty-Underwriting-and-Portfolio-Manager---CRE_R246300-1 |
@@ -593,6 +593,7 @@
 | Medtronic | Posted Yesterday |  | Principal CoreValve Therapy Development Specialist (Bay Area & Central Coast) | 6 Locations | https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Bay-Area-California-United-States-of-America/Principal-CoreValve-Therapy-Development-Specialist--Bay-Area---Central-Coast-_R62416-1 |
 | Medtronic | Posted Yesterday |  | Principal Customer Engagement Specialist - Digital Technologies | New York, New York, United States of America | https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/New-York-New-York-United-States-of-America/Principal-Customer-Engagement-Specialist---Digital-Technologies_R60951-1 |
 | Medtronic | Posted Yesterday |  | Principal Customer Engagement Specialist - Midwest Region | 3 Locations | https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Chicago-Illinois-United-States-of-America/Principal-Customer-Engagement-Specialist---Midwest-Region_R67934-1 |
+| Medtronic | Posted Yesterday | NEW | Principal Process Engineer - On-site | Salt Lake City, Utah, United States of America | https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Salt-Lake-City-Utah-United-States-of-America/Principal-Process-Engineer---On-site_R68935-1 |
 | Medtronic | Posted Yesterday |  | Principal Process Engineer, Advanced Manufacturing Team | Danvers, Massachusetts, United States of America | https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Danvers-Massachusetts-United-States-of-America/Principal-Process-Engineer--Advanced-Manufacturing-Team_R69213-1 |
 | Medtronic | Posted Yesterday |  | Principal Reliability Engineer | Mounds View, Minnesota, United States of America | https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Mounds-View-Minnesota-United-States-of-America/Principal-Reliability-Engineer_R62665-1 |
 | Medtronic | Posted Yesterday |  | Principal Sales Representative - CAS,  Little Rock, AR | Little Rock, Arkansas, United States of America | https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Little-Rock-Arkansas-United-States-of-America/Principal-Sales-Representative---CAS---Little-Rock--AR_R68373-1 |
@@ -750,7 +751,7 @@
 | NVIDIA | Posted Yesterday |  | Machine Learning Systems Engineer, Networking | US, CA, Santa Clara | https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Machine-Learning-Systems-Engineer--Networking_JR2018261 |
 | NVIDIA | Posted Yesterday |  | Material Handler | US, CA, Santa Clara | https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Material-Handler_JR2019401 |
 | NVIDIA | Posted Yesterday |  | Principal ASIC Chip Design Engineer | 2 Locations | https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Principal-ASIC-Chip-Design-Engineer_JR2019911 |
-| NVIDIA | Posted Yesterday | NEW | Principal Engineer, CUDA UMD - GPU Kernel Scheduling | US, CA, Santa Clara | https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Principal-Engineer--CUDA-UMD---Kernel-Scheduling_JR2014055 |
+| NVIDIA | Posted Yesterday |  | Principal Engineer, CUDA UMD - GPU Kernel Scheduling | US, CA, Santa Clara | https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Principal-Engineer--CUDA-UMD---Kernel-Scheduling_JR2014055 |
 | NVIDIA | Posted Yesterday |  | Principal Software Engineer, Rack-Scale System Software — CSP Engagements | 4 Locations | https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Principal-Software-Engineer--Rack-Scale-System-Software---CSP-Engagements_JR2020316 |
 | NVIDIA | Posted Yesterday |  | Senior AI Verification Chip Design Engineer | 2 Locations | https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Senior-AI-Verification-Chip-Design-Engineer_JR2020911 |
 | NVIDIA | Posted Yesterday |  | Senior AI and Quant DevTech Engineer | 2 Locations | https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-AI-and-FSI-Developer-Technology-Engineer_JR2016002 |
