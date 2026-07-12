@@ -1,6 +1,6 @@
-# Priority: Today/Yesterday — 2026-07-11T20:04:43-04:00
+# Priority: Today/Yesterday — 2026-07-11T23:50:10-04:00
 
-1592 roles
+1601 roles
 
 | Company | Posted | New? | Role | Location | Link |
 |---|---|---|---|---|---|
@@ -8,6 +8,8 @@
 | Bank of America | Posted Today |  | Relationship Banker - Coastal Carolinas Market | 3 Locations | https://ghr.wd1.myworkdayjobs.com/en-US/Lateral-US/job/Wilmington/Relationship-Banker---Coastal-Carolinas-Market_26023752 |
 | Bank of America | Posted Today |  | Relationship Banker - Sacramento Metro Area | 3 Locations | https://ghr.wd1.myworkdayjobs.com/en-US/Lateral-US/job/Sacramento/Relationship-Banker---Sacramento-Metro-Area_26023934 |
 | Bank of America | Posted Today |  | Senior Software Engineer – Kubernetes Platform Engineering, Service Mesh & Developer Platforms (Golang APIs) | 3 Locations | https://ghr.wd1.myworkdayjobs.com/en-US/Lateral-US/job/Jersey-City/Senior-Software-Engineer---Kubernetes-Platform-Engineering--Service-Mesh---Developer-Platforms--Golang-APIs-_26023579 |
+| Bristol Myers Squibb | Posted Today | NEW | Bioprocess Associate - Single Use Facility | Devens - MA - US | https://bristolmyerssquibb.wd5.myworkdayjobs.com/en-US/BMS/job/Devens---MA---US/Bioprocess-Associate---Single-Use-Facility_R1603355 |
+| CVS Health | Posted Today |  | Contract Negotiation Manager - Illinois | 16 Locations | https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/IL---Work-from-home/Contract-Negotiation-Manager---Illinois_R0930946 |
 | CenterWell | Posted Today |  | Home Health Baylor Registered Nurse | Little Rock, AR | https://humana.wd5.myworkdayjobs.com/en-US/CenterWell_External_Career_Site/job/Little-Rock-AR/Home-Health-Baylor-Registered-Nurse_R-419527 |
 | CenterWell | Posted Today |  | Home Health Licensed Practical Nurse | Osage Beach, MO | https://humana.wd5.myworkdayjobs.com/en-US/CenterWell_External_Career_Site/job/Osage-Beach-MO/Home-Health-Licensed-Practical-Nurse_R-416001 |
 | CenterWell | Posted Today |  | Home Health Occupational Therapist Assistant | Saint Joseph, MO | https://humana.wd5.myworkdayjobs.com/en-US/CenterWell_External_Career_Site/job/Saint-Joseph-MO/Home-Health-Occupational-Therapist-Assistant_R-419316 |
@@ -26,9 +28,13 @@
 | Citi | Posted Today |  | Senior Backend Developer Assistant Vice President | Irving Texas United States | https://citi.wd5.myworkdayjobs.com/en-US/2/job/Irving-Texas-United-States/Senior-Backend-Developer-Assistant-Vice-President_26977746 |
 | Elevance Health | Posted Today |  | Secure Data Pipeline Data Engineer | 6 Locations | https://elevancehealth.wd1.myworkdayjobs.com/en-US/ANT/job/IN-INDIANAPOLIS-220-VIRGINIA-AVE/Data-Engineer-Secure-Data-Pipelines_JR191679-1 |
 | Humana | Posted Today |  | VP, Application Reliability & Operations Engineering | Remote Nationwide | https://humana.wd5.myworkdayjobs.com/en-US/Humana_External_Career_Site/job/Remote-Nationwide/VP--Application-Reliability---Operations-Engineering_R-418797-1 |
+| Micron | Posted Today | NEW | MTS, Technical Solutions Sales Architect | 5 Locations | https://micron.wd1.myworkdayjobs.com/en-US/External/job/San-Jose-CA/MTS--Technical-Solutions-Sales-Architect_JR104071 |
+| NVIDIA | Posted Today | NEW | Director, Software TPM - Server Firmware and System Software | US, CA, Santa Clara | https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Manager--Software-TPM---Server-Firmware-and-System-Software_JR2007277-1 |
+| NVIDIA | Posted Today | NEW | Director, Technical Program Management - Software | US, CA, Santa Clara | https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Director--Technical-Program-Management---Software_JR2020014 |
 | NVIDIA | Posted Today |  | Distinguished Engineer - Rack Scale Architecture | 2 Locations | https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Distinguished-Engineer---Rack-Scale-Architecture_JR2012293 |
 | NVIDIA | Posted Today |  | Senior Corporate Accountant | US, CA, Santa Clara | https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Corporate-Accountant_JR2004666 |
 | NVIDIA | Posted Today |  | Senior Firmware Engineer -  Development, Verification and Infrastructure | US, CA, Santa Clara | https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Firmware-Engineer_JR2007787 |
+| NVIDIA | Posted Today |  | Senior HPC Architect, Automation and At-Scale Deployment | 13 Locations | https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-HPC-Architect_JR1999579 |
 | NVIDIA | Posted Today |  | Senior Manager, Datacenter Software - Firmware Release | 3 Locations | https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Manager--Datacenter-Software---Firmware-Release_JR2017131 |
 | NVIDIA | Posted Today |  | Senior Manager, Engineering - Data Center Firmware | 2 Locations | https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Manager--Engineering---Data-Center-Firmware_JR2019986 |
 | NVIDIA | Posted Today |  | Senior NPI Program Manager - Datacenter Server Products | US, CA, Santa Clara | https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-NPI-Program-Manager---Datacenter-Server-Products_JR1998353 |
@@ -36,9 +42,11 @@
 | NVIDIA | Posted Today |  | Senior Software Engineer - BaseOS | 2 Locations | https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer---BaseOS_JR2018594 |
 | NVIDIA | Posted Today |  | Senior Software Engineer - Datacenter Systems | 3 Locations | https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer---Datacenter-Systems_JR2017468 |
 | NVIDIA | Posted Today |  | Senior Software Engineer, At Scale Compute Analysis | 5 Locations | https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Systems-Data-Engineer_JR1999730 |
+| NVIDIA | Posted Today |  | Senior Software Engineer, Security | 2 Locations | https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Security-Architect_JR2018245 |
 | NVIDIA | Posted Today |  | Senior Software Program Manager - Datacenter Compute Server | US, CA, Santa Clara | https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Program-Manager---Datacenter-Compute-Server_JR1996363 |
 | NVIDIA | Posted Today |  | Senior Solutions Architect | 2 Locations | https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Solutions-Architect_JR2000169 |
 | NVIDIA | Posted Today |  | Senior Systems Software Engineer - GPU Performance at Scale | 5 Locations | https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Performance-Engineer_JR1996987 |
+| NVIDIA | Posted Today |  | Senior Systems Software Security Engineer – Data Center Systems | US, CO, Remote | https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CO-Remote/Senior-Systems-Software-Security-Engineer---Data-Center-Systems_JR2004966-1 |
 | NVIDIA | Posted Today |  | Software Engineering Manager - GPU Communications Libraries | US, CA, Santa Clara | https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineering-Manager---GPU-Communications-Libraries_JR1980109 |
 | Thermo Fisher | Posted Today |  | Clinical Research Associate (various Levels) | 2 Locations | https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Remote-Spain/Clinical-Research-Associate--various-Levels-_R-01358166 |
 | Thermo Fisher | Posted Today |  | Sales Development Manager - Clinical Diagnostic Division | Remote, Vietnam | https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Remote-Vietnam/Sales-Development-Manager---Clinical-Diagnostic-Division_R-01357350 |
@@ -51,6 +59,7 @@
 | USAA | Posted Today |  | VP, Risk Management - Property & Casualty (P&C) Risk | 5 Locations | https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/San-Antonio-Home-Office-I/VP--Risk-Management---Property---Casualty-Risk_R0117838 |
 | Wells Fargo | Posted Today |  | Associate Customer Service Representative Spanish Bilingual Everyday Banking | IRVING, TX | https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/IRVING-TX/Associate-Customer-Service-Representative-Spanish-Bilingual-Everyday-Banking_R-558526 |
 | Wells Fargo | Posted Today |  | Branch Manager - Summit Mountains | 3 Locations | https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/FRISCO-CO/Branch-Manager---Summit-Mountains_R-548286 |
+| Wells Fargo | Posted Today |  | Lead Product Strategy Manager | 5 Locations | https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/CHARLOTTE-NC/Lead-Product-Strategy-Manager--Retention-and-Engagement-_R-535239 |
 | Wells Fargo | Posted Today |  | Relationship Banker Prestonwood Town Center | DALLAS, TX | https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/DALLAS-TX/Relationship-Banker-Prestonwood-Town-Center_R-557731 |
 | Wells Fargo | Posted Today |  | Teller Part Time Whittier | WHITTIER, CA | https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/WHITTIER-CA/Teller-Part-Time-Whittier_R-556099 |
 | Workday | Posted Today |  | Senior Engagement Manager, AI Solutions Delivery | 64 Locations | https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USA-NY-Remote/Senior-Engagement-Manager--AI-Solutions-Delivery_JR-0107750 |
