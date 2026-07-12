@@ -1,18 +1,19 @@
-# Priority: Today/Yesterday — 2026-07-12T07:20:01-04:00
+# Priority: Today/Yesterday — 2026-07-12T09:48:33-04:00
 
-69 roles
+70 roles
 
 | Company | Posted | New? | Role | Location | Link |
 |---|---|---|---|---|---|
 | Fidelity | Posted Today |  | Risk Operations Manager | 2 Locations | https://fmr.wd1.myworkdayjobs.com/en-US/FidelityCareers/job/Westlake-TX/Risk-Operations-Manager_2129150-2 |
 | Fidelity | Posted Today |  | Senior Manager, Data Analytics & Insights | 2 Locations | https://fmr.wd1.myworkdayjobs.com/en-US/FidelityCareers/job/Westlake-TX/Senior-Manager--Data-Analytics---Insights_2130193-1 |
-| NVIDIA | Posted Today | NEW | Software Verification Engineer, DOCA | 2 Locations | https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Yokneam/Software-Verification-Engineer--DOCA_JR2017515 |
+| NVIDIA | Posted Today | NEW | DevOps Engineer | 2 Locations | https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Raanana/DevOps-Engineer_JR2017157-1 |
 | PayPal | Posted Today |  | Product Manager- Open Banking | 3 Locations | https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Dublin-County-Dublin-Ireland/Sr-Product-Manager_R0136412-1 |
 | Thermo Fisher | Posted Today |  | Operator I, Manufacturing - Packer - Plates | Lenexa, Kansas, USA | https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Lenexa-Kansas-USA/Operator-I--Manufacturing---Packer---Plates_R-01354786 |
 | Thermo Fisher | Posted Today |  | Operator II, Manufacturing - Inspector - Plates | Lenexa, Kansas, USA | https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Lenexa-Kansas-USA/Operator-II--Manufacturing_R-01358954 |
 | Thermo Fisher | Posted Today |  | Suite Operator - Dispenser/Inspector | Lenexa, Kansas, USA | https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Lenexa-Kansas-USA/Suite-Operator---Dispenser-Inspector_R-01356342 |
 | Thermo Fisher | Posted Today |  | Thermal Processor - First Shift | Lenexa, Kansas, USA | https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Lenexa-Kansas-USA/Operator-ll--Manufacturing---First-Shift_R-01354776 |
 | Thermo Fisher | Posted Today |  | Thermal Processor - Second  Shift | Lenexa, Kansas, USA | https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Lenexa-Kansas-USA/Thermal-Processor---Second--Shift_R-01356341 |
+| Wells Fargo | Posted Today |  | Senior Premier Banker Medical Plaza | CHARLOTTE, NC | https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/CHARLOTTE-NC/Senior-Premier-Banker-Medical-Plaza_R-545909-1 |
 | Bank of America | Posted Yesterday |  | Relationship Banker | 2 Locations | https://ghr.wd1.myworkdayjobs.com/en-US/Lateral-US/job/Roseville/Relationship-Banker_26015701 |
 | Bank of America | Posted Yesterday |  | Relationship Banker - Coastal Carolinas Market | 3 Locations | https://ghr.wd1.myworkdayjobs.com/en-US/Lateral-US/job/Wilmington/Relationship-Banker---Coastal-Carolinas-Market_26023752 |
 | Bank of America | Posted Yesterday |  | Relationship Banker - Sacramento Metro Area | 3 Locations | https://ghr.wd1.myworkdayjobs.com/en-US/Lateral-US/job/Sacramento/Relationship-Banker---Sacramento-Metro-Area_26023934 |
