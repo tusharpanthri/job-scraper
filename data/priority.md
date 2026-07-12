@@ -1,6 +1,6 @@
-# Priority: Today/Yesterday — 2026-07-12T15:18:52-04:00
+# Priority: Today/Yesterday — 2026-07-12T17:02:07-04:00
 
-87 roles
+93 roles
 
 | Company | Posted | New? | Role | Location | Link |
 |---|---|---|---|---|---|
@@ -14,8 +14,11 @@
 | CenterWell | Posted Today |  | Occupational Therapist Home Health | Monticello, AR | https://humana.wd5.myworkdayjobs.com/en-US/CenterWell_External_Career_Site/job/Monticello-AR/Occupational-Therapist-Home-Health_R-420064 |
 | CenterWell | Posted Today |  | Occupational Therapist Home Health-PRN | Monticello, AR | https://humana.wd5.myworkdayjobs.com/en-US/CenterWell_External_Career_Site/job/Monticello-AR/Occupational-Therapist-Home-Health-PRN_R-420066 |
 | CenterWell | Posted Today |  | Occupational Therapist, Home Health-PRN | St Louis, MO | https://humana.wd5.myworkdayjobs.com/en-US/CenterWell_External_Career_Site/job/St-Louis-MO/Occupational-Therpaist--Home-Health-PRN_R-413547 |
+| Elevance Health | Posted Today |  | Medical Coding Education Associate | 4 Locations | https://elevancehealth.wd1.myworkdayjobs.com/en-US/ANT/job/VA-NORFOLK-5800-NORTHAMPTON-BLVD/Medical-Coding-Education-Associate_JR194598 |
 | Fidelity | Posted Today |  | Risk Operations Manager | 2 Locations | https://fmr.wd1.myworkdayjobs.com/en-US/FidelityCareers/job/Westlake-TX/Risk-Operations-Manager_2129150-2 |
 | Fidelity | Posted Today |  | Senior Manager, Data Analytics & Insights | 2 Locations | https://fmr.wd1.myworkdayjobs.com/en-US/FidelityCareers/job/Westlake-TX/Senior-Manager--Data-Analytics---Insights_2130193-1 |
+| Micron | Posted Today | NEW | Principal Design Engineer | San Jose, CA | https://micron.wd1.myworkdayjobs.com/en-US/External/job/San-Jose-CA/Principal-Design-Engineer_JR105867 |
+| Micron | Posted Today | NEW | Senior Design Engineer | San Jose, CA | https://micron.wd1.myworkdayjobs.com/en-US/External/job/San-Jose-CA/Senior-Design-Engineer_JR105872 |
 | NTT Ltd | Posted Today |  | Sales Director – Insurance (India Market) | 3 Locations | https://nttlimited.wd3.myworkdayjobs.com/en-US/NTT_Careers/job/Mumbai-India/Sales-Director---Insurance--India-Market-_R-147606 |
 | NVIDIA | Posted Today |  | DevOps Engineer | 2 Locations | https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Raanana/DevOps-Engineer_JR2017157-1 |
 | NVIDIA | Posted Today |  | Senior Software Engineer, AI Storage | 2 Locations | https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--AI-Storage_JR2014785 |
@@ -23,15 +26,18 @@
 | PayPal | Posted Today |  | Product Manager- Open Banking | 3 Locations | https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Dublin-County-Dublin-Ireland/Sr-Product-Manager_R0136412-1 |
 | Thermo Fisher | Posted Today |  | Operator I, Manufacturing - Packer - Plates | Lenexa, Kansas, USA | https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Lenexa-Kansas-USA/Operator-I--Manufacturing---Packer---Plates_R-01354786 |
 | Thermo Fisher | Posted Today |  | Operator II, Manufacturing - Inspector - Plates | Lenexa, Kansas, USA | https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Lenexa-Kansas-USA/Operator-II--Manufacturing_R-01358954 |
-| Thermo Fisher | Posted Today | NEW | Sr Inventory Management Specialist | South San Francisco, California, USA | https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/South-San-Francisco-California-USA/Sr-Inventory-Management-Specialist_R-01359081 |
-| Thermo Fisher | Posted Today | NEW | Sr Site Specialist | Remote, California, USA | https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Remote-California-USA/Sr-Site-Specialist_R-01359429 |
-| Thermo Fisher | Posted Today | NEW | Sr. Manufacturing Technician | Lebanon, Tennessee, USA | https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Lebanon-Tennessee-USA/Sr-Manufacturing-Technician_R-01359112 |
+| Thermo Fisher | Posted Today |  | Sr Inventory Management Specialist | South San Francisco, California, USA | https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/South-San-Francisco-California-USA/Sr-Inventory-Management-Specialist_R-01359081 |
+| Thermo Fisher | Posted Today |  | Sr Site Specialist | Remote, California, USA | https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Remote-California-USA/Sr-Site-Specialist_R-01359429 |
+| Thermo Fisher | Posted Today |  | Sr. Manufacturing Technician | Lebanon, Tennessee, USA | https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Lebanon-Tennessee-USA/Sr-Manufacturing-Technician_R-01359112 |
 | Thermo Fisher | Posted Today |  | Suite Operator - Dispenser/Inspector | Lenexa, Kansas, USA | https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Lenexa-Kansas-USA/Suite-Operator---Dispenser-Inspector_R-01356342 |
 | Thermo Fisher | Posted Today |  | Thermal Processor - First Shift | Lenexa, Kansas, USA | https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Lenexa-Kansas-USA/Operator-ll--Manufacturing---First-Shift_R-01354776 |
 | Thermo Fisher | Posted Today |  | Thermal Processor - Second  Shift | Lenexa, Kansas, USA | https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Lenexa-Kansas-USA/Thermal-Processor---Second--Shift_R-01356341 |
+| U.S. Bank | Posted Today | NEW | Data Product Manager - Go to Market | 3 Locations | https://usbank.wd1.myworkdayjobs.com/en-US/US_Bank_Careers/job/Irving-TX/Data-Product-Manager---Go-to-Market_2026-0013062 |
+| Walmart | Posted Today | NEW | (USA) Store Manager - Division 1/Neighborhood Market | (USA) GA ATLANTA 07601 NEIGHBORHOOD MARKET | https://walmart.wd504.myworkdayjobs.com/en-US/walmartexternal/job/USA-GA-ATLANTA-07601-NEIGHBORHOOD-MARKET/XMLNAME--USA--Store-Manager---Division-1-Neighborhood-Market_R-2572332-1 |
 | Wells Fargo | Posted Today |  | Relationship Banker Alvin | ALVIN, TX | https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/ALVIN-TX/Relationship-Banker-Alvin_R-554759 |
 | Wells Fargo | Posted Today |  | Relationship Banker Franktown CO | FRANKTOWN, CO | https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/FRANKTOWN-CO/Relationship-Banker-Franktown-CO_R-559130 |
 | Wells Fargo | Posted Today |  | Senior Premier Banker Medical Plaza | CHARLOTTE, NC | https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/CHARLOTTE-NC/Senior-Premier-Banker-Medical-Plaza_R-545909-1 |
+| Wells Fargo | Posted Today |  | Senior Software Engineer | 3 Locations | https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/IRVING-TX/Senior-Software-Engineer_R-555857 |
 | Bank of America | Posted Yesterday |  | Relationship Banker | 2 Locations | https://ghr.wd1.myworkdayjobs.com/en-US/Lateral-US/job/Roseville/Relationship-Banker_26015701 |
 | Bank of America | Posted Yesterday |  | Relationship Banker - Coastal Carolinas Market | 3 Locations | https://ghr.wd1.myworkdayjobs.com/en-US/Lateral-US/job/Wilmington/Relationship-Banker---Coastal-Carolinas-Market_26023752 |
 | Bank of America | Posted Yesterday |  | Relationship Banker - Sacramento Metro Area | 3 Locations | https://ghr.wd1.myworkdayjobs.com/en-US/Lateral-US/job/Sacramento/Relationship-Banker---Sacramento-Metro-Area_26023934 |
