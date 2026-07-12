@@ -1,4 +1,4 @@
-# Priority: Today/Yesterday — 2026-07-11T19:01:41-04:00
+# Priority: Today/Yesterday — 2026-07-11T20:04:43-04:00
 
 1592 roles
 
@@ -46,7 +46,7 @@
 | Truist | Posted Today |  | Part Time Universal Banker- 20 Hours- Hunters Trace | Louisville, KY | https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Louisville-KY/Part-Time-Universal-Banker--20-Hours--Hunters-Trace_R0116141 |
 | U.S. Bank | Posted Today |  | Senior Model Validation Analyst – Compliance & Financial Crimes (AML, Sanctions and Fair Lending) | 4 Locations | https://usbank.wd1.myworkdayjobs.com/en-US/US_Bank_Careers/job/Minneapolis-MN/Senior-Model-Validation-Analyst---Compliance---Financial-Crimes--AML--Sanctions-and-Fair-Lending-_2026-0020172-1 |
 | USAA | Posted Today |  | AVP, Application Development - USAA Investment Services Company (ISCO) | 5 Locations | https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/San-Antonio-Home-Office-I/AVP--Application-Development---USAA-Investment-Services-Company--ISCO-_R0117624 |
-| USAA | Posted Today | NEW | AVP, Marketing Technology Activation and Growth, P&C Marketing | 5 Locations | https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/San-Antonio-Home-Office-I/AVP--Marketing-Technology-Activation-and-Growth--P-C-Marketing_R0118682 |
+| USAA | Posted Today |  | AVP, Marketing Technology Activation and Growth, P&C Marketing | 5 Locations | https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/San-Antonio-Home-Office-I/AVP--Marketing-Technology-Activation-and-Growth--P-C-Marketing_R0118682 |
 | USAA | Posted Today |  | AVP, Program / Project Management - Life Company | 3 Locations | https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/San-Antonio-Home-Office-I/AVP--Program---Project-Management---Life-Company_R0118675-1 |
 | USAA | Posted Today |  | VP, Risk Management - Property & Casualty (P&C) Risk | 5 Locations | https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/San-Antonio-Home-Office-I/VP--Risk-Management---Property---Casualty-Risk_R0117838 |
 | Wells Fargo | Posted Today |  | Associate Customer Service Representative Spanish Bilingual Everyday Banking | IRVING, TX | https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/IRVING-TX/Associate-Customer-Service-Representative-Spanish-Bilingual-Everyday-Banking_R-558526 |
