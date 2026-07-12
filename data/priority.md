@@ -1,12 +1,21 @@
-# Priority: Today/Yesterday — 2026-07-12T09:48:33-04:00
+# Priority: Today/Yesterday — 2026-07-12T11:07:32-04:00
 
-70 roles
+79 roles
 
 | Company | Posted | New? | Role | Location | Link |
 |---|---|---|---|---|---|
+| CenterWell | Posted Today | NEW | Certified Nurse Assistant-PRN | Omaha, NE | https://humana.wd5.myworkdayjobs.com/en-US/CenterWell_External_Career_Site/job/Omaha-NE/Home-Health-Aide-PRN_R-418179 |
+| CenterWell | Posted Today | NEW | Home Health Licensed Practical Nurse | Muncie, IN | https://humana.wd5.myworkdayjobs.com/en-US/CenterWell_External_Career_Site/job/Muncie-IN/Home-Health-Licensed-Practical-Nurse_R-415998 |
+| CenterWell | Posted Today | NEW | Home Health Medical Social Worker-PRN | Omaha, NE | https://humana.wd5.myworkdayjobs.com/en-US/CenterWell_External_Career_Site/job/Omaha-NE/Home-Health-Medical-Social-Worker-PRN_R-418184 |
+| CenterWell | Posted Today | NEW | Home Health Physical Therapist Assistant | Melbourne, AR | https://humana.wd5.myworkdayjobs.com/en-US/CenterWell_External_Career_Site/job/Melbourne-AR/Home-Health-Physical-Therapist-Assistant_R-419538 |
+| CenterWell | Posted Today | NEW | Home Health Registered Nurse | Paragould, AR | https://humana.wd5.myworkdayjobs.com/en-US/CenterWell_External_Career_Site/job/Paragould-AR/Home-Health-Registered-Nurse_R-419962 |
+| CenterWell | Posted Today | NEW | Home Health Registered Nurse | Monticello, AR | https://humana.wd5.myworkdayjobs.com/en-US/CenterWell_External_Career_Site/job/Monticello-AR/Home-Health-Registered-Nurse_R-419741 |
+| CenterWell | Posted Today | NEW | Occupational Therapist Home Health | Monticello, AR | https://humana.wd5.myworkdayjobs.com/en-US/CenterWell_External_Career_Site/job/Monticello-AR/Occupational-Therapist-Home-Health_R-420064 |
+| CenterWell | Posted Today | NEW | Occupational Therapist Home Health-PRN | Monticello, AR | https://humana.wd5.myworkdayjobs.com/en-US/CenterWell_External_Career_Site/job/Monticello-AR/Occupational-Therapist-Home-Health-PRN_R-420066 |
 | Fidelity | Posted Today |  | Risk Operations Manager | 2 Locations | https://fmr.wd1.myworkdayjobs.com/en-US/FidelityCareers/job/Westlake-TX/Risk-Operations-Manager_2129150-2 |
 | Fidelity | Posted Today |  | Senior Manager, Data Analytics & Insights | 2 Locations | https://fmr.wd1.myworkdayjobs.com/en-US/FidelityCareers/job/Westlake-TX/Senior-Manager--Data-Analytics---Insights_2130193-1 |
-| NVIDIA | Posted Today | NEW | DevOps Engineer | 2 Locations | https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Raanana/DevOps-Engineer_JR2017157-1 |
+| NTT Ltd | Posted Today | NEW | Sales Director – Insurance (India Market) | 3 Locations | https://nttlimited.wd3.myworkdayjobs.com/en-US/NTT_Careers/job/Mumbai-India/Sales-Director---Insurance--India-Market-_R-147606 |
+| NVIDIA | Posted Today |  | DevOps Engineer | 2 Locations | https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Raanana/DevOps-Engineer_JR2017157-1 |
 | PayPal | Posted Today |  | Product Manager- Open Banking | 3 Locations | https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Dublin-County-Dublin-Ireland/Sr-Product-Manager_R0136412-1 |
 | Thermo Fisher | Posted Today |  | Operator I, Manufacturing - Packer - Plates | Lenexa, Kansas, USA | https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Lenexa-Kansas-USA/Operator-I--Manufacturing---Packer---Plates_R-01354786 |
 | Thermo Fisher | Posted Today |  | Operator II, Manufacturing - Inspector - Plates | Lenexa, Kansas, USA | https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Lenexa-Kansas-USA/Operator-II--Manufacturing_R-01358954 |
