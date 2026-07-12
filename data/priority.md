@@ -1,12 +1,13 @@
-# Priority: Today/Yesterday — 2026-07-12T05:09:55-04:00
+# Priority: Today/Yesterday — 2026-07-12T07:20:01-04:00
 
-68 roles
+69 roles
 
 | Company | Posted | New? | Role | Location | Link |
 |---|---|---|---|---|---|
 | Fidelity | Posted Today |  | Risk Operations Manager | 2 Locations | https://fmr.wd1.myworkdayjobs.com/en-US/FidelityCareers/job/Westlake-TX/Risk-Operations-Manager_2129150-2 |
 | Fidelity | Posted Today |  | Senior Manager, Data Analytics & Insights | 2 Locations | https://fmr.wd1.myworkdayjobs.com/en-US/FidelityCareers/job/Westlake-TX/Senior-Manager--Data-Analytics---Insights_2130193-1 |
-| PayPal | Posted Today | NEW | Product Manager- Open Banking | 3 Locations | https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Dublin-County-Dublin-Ireland/Sr-Product-Manager_R0136412-1 |
+| NVIDIA | Posted Today | NEW | Software Verification Engineer, DOCA | 2 Locations | https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Yokneam/Software-Verification-Engineer--DOCA_JR2017515 |
+| PayPal | Posted Today |  | Product Manager- Open Banking | 3 Locations | https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Dublin-County-Dublin-Ireland/Sr-Product-Manager_R0136412-1 |
 | Thermo Fisher | Posted Today |  | Operator I, Manufacturing - Packer - Plates | Lenexa, Kansas, USA | https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Lenexa-Kansas-USA/Operator-I--Manufacturing---Packer---Plates_R-01354786 |
 | Thermo Fisher | Posted Today |  | Operator II, Manufacturing - Inspector - Plates | Lenexa, Kansas, USA | https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Lenexa-Kansas-USA/Operator-II--Manufacturing_R-01358954 |
 | Thermo Fisher | Posted Today |  | Suite Operator - Dispenser/Inspector | Lenexa, Kansas, USA | https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Lenexa-Kansas-USA/Suite-Operator---Dispenser-Inspector_R-01356342 |
