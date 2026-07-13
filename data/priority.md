@@ -1,6 +1,6 @@
-# Priority: Today/Yesterday — 2026-07-12T19:01:12-04:00
+# Priority: Today/Yesterday — 2026-07-12T20:04:52-04:00
 
-102 roles
+107 roles
 
 | Company | Posted | New? | Role | Location | Link |
 |---|---|---|---|---|---|
@@ -19,16 +19,19 @@
 | Elevance Health | Posted Today |  | Medical Coding Education Associate | 4 Locations | https://elevancehealth.wd1.myworkdayjobs.com/en-US/ANT/job/VA-NORFOLK-5800-NORTHAMPTON-BLVD/Medical-Coding-Education-Associate_JR194598 |
 | Fidelity | Posted Today |  | Risk Operations Manager | 2 Locations | https://fmr.wd1.myworkdayjobs.com/en-US/FidelityCareers/job/Westlake-TX/Risk-Operations-Manager_2129150-2 |
 | Fidelity | Posted Today |  | Senior Manager, Data Analytics & Insights | 2 Locations | https://fmr.wd1.myworkdayjobs.com/en-US/FidelityCareers/job/Westlake-TX/Senior-Manager--Data-Analytics---Insights_2130193-1 |
+| Humana | Posted Today |  | Care Coordinator, RN Field Based | 35 Locations | https://humana.wd5.myworkdayjobs.com/en-US/Humana_External_Career_Site/job/Remote-Indiana/Care-Coordinator--RN-Field-Based_R-396132 |
 | Micron | Posted Today |  | Principal Design Engineer | San Jose, CA | https://micron.wd1.myworkdayjobs.com/en-US/External/job/San-Jose-CA/Principal-Design-Engineer_JR105867 |
 | Micron | Posted Today |  | Senior Design Engineer | San Jose, CA | https://micron.wd1.myworkdayjobs.com/en-US/External/job/San-Jose-CA/Senior-Design-Engineer_JR105872 |
 | NTT Ltd | Posted Today |  | Sales Director – Insurance (India Market) | 3 Locations | https://nttlimited.wd3.myworkdayjobs.com/en-US/NTT_Careers/job/Mumbai-India/Sales-Director---Insurance--India-Market-_R-147606 |
-| NTT Ltd | Posted Today | NEW | Senior Cyber Security Team Lead | 2 Locations | https://nttlimited.wd3.myworkdayjobs.com/en-US/NTT_Careers/job/Wellington-New-Zealand/Senior-Cyber-Security-Team-Lead_R-146976 |
+| NTT Ltd | Posted Today |  | Senior Cyber Security Team Lead | 2 Locations | https://nttlimited.wd3.myworkdayjobs.com/en-US/NTT_Careers/job/Wellington-New-Zealand/Senior-Cyber-Security-Team-Lead_R-146976 |
 | NVIDIA | Posted Today |  | DevOps Engineer | 2 Locations | https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Raanana/DevOps-Engineer_JR2017157-1 |
+| NVIDIA | Posted Today |  | Manager, Next-Gen AI Cluster Validation | 2 Locations | https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Manager--Next-Gen-AI-Cluster-Validation_JR2013580 |
 | NVIDIA | Posted Today |  | Senior Software Architect - Deep Learning and HPC Communications | 5 Locations | https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Architect---Deep-Learning-and-HPC-Communications_JR2001099-1 |
 | NVIDIA | Posted Today |  | Senior Software Engineer, AI Storage | 2 Locations | https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--AI-Storage_JR2014785 |
+| NVIDIA | Posted Today |  | Senior Systems Architect - Datacenter | US, CA, Santa Clara | https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Systems-Architect---Datacenter_JR2019127 |
 | NVIDIA | Posted Today |  | Senior Technical Program Manager, Data Center - Engineering Operations | 2 Locations | https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Technical-Program-Manager--Data-Center---Engineering-Operations_JR2001987-1 |
 | PayPal | Posted Today |  | Product Manager- Open Banking | 3 Locations | https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Dublin-County-Dublin-Ireland/Sr-Product-Manager_R0136412-1 |
-| Salesforce | Posted Today | NEW | Recruiter, Futureforce AMER | 2 Locations | https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Recruiter--Futureforce-AMER_JR351570 |
+| Salesforce | Posted Today |  | Recruiter, Futureforce AMER | 2 Locations | https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Recruiter--Futureforce-AMER_JR351570 |
 | Thermo Fisher | Posted Today |  | Operator I, Manufacturing - Packer - Plates | Lenexa, Kansas, USA | https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Lenexa-Kansas-USA/Operator-I--Manufacturing---Packer---Plates_R-01354786 |
 | Thermo Fisher | Posted Today |  | Operator II, Manufacturing - Inspector - Plates | Lenexa, Kansas, USA | https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Lenexa-Kansas-USA/Operator-II--Manufacturing_R-01358954 |
 | Thermo Fisher | Posted Today |  | Sr Inventory Management Specialist | South San Francisco, California, USA | https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/South-San-Francisco-California-USA/Sr-Inventory-Management-Specialist_R-01359081 |
@@ -37,9 +40,11 @@
 | Thermo Fisher | Posted Today |  | Suite Operator - Dispenser/Inspector | Lenexa, Kansas, USA | https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Lenexa-Kansas-USA/Suite-Operator---Dispenser-Inspector_R-01356342 |
 | Thermo Fisher | Posted Today |  | Thermal Processor - First Shift | Lenexa, Kansas, USA | https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Lenexa-Kansas-USA/Operator-ll--Manufacturing---First-Shift_R-01354776 |
 | Thermo Fisher | Posted Today |  | Thermal Processor - Second  Shift | Lenexa, Kansas, USA | https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Lenexa-Kansas-USA/Thermal-Processor---Second--Shift_R-01356341 |
+| Truist | Posted Today |  | Relationship Banker or Senior Relationship Banker - Maple & Grove | Richmond, VA | https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Richmond-VA/Relationship-Banker-or-Senior-Relationship-Banker---Maple---Grove_R0115198 |
 | U.S. Bank | Posted Today |  | Data Product Manager - Go to Market | 3 Locations | https://usbank.wd1.myworkdayjobs.com/en-US/US_Bank_Careers/job/Irving-TX/Data-Product-Manager---Go-to-Market_2026-0013062 |
 | USC | Posted Today |  | Postdoctoral Scholar - Research Associate | Los Angeles, CA - University Park Campus | https://usc.wd5.myworkdayjobs.com/en-US/ExternalUSCCareers/job/Los-Angeles-CA---University-Park-Campus/Postdoctoral-Scholar---Research-Associate_REQ20137498 |
 | USC | Posted Today |  | Project Assistant (Fixed Term) | Los Angeles, CA - University Park Campus | https://usc.wd5.myworkdayjobs.com/en-US/ExternalUSCCareers/job/Los-Angeles-CA---University-Park-Campus/Project-Assistant--Fixed-Term-_REQ20143544 |
+| University of Washington | Posted Today | NEW | Advanced Cardiovascular Technologist/EP Tech - UWMC-Montlake - EP Lab | Seattle, WA | https://uw.wd5.myworkdayjobs.com/en-US/UWHires/job/Seattle-WA/Advanced-Cardiovascular-Technologist-EP-Tech---UWMC-Montlake---EP-Lab_REQ-0000117691 |
 | Walmart | Posted Today |  | (USA) Member Specialist | Thornton, CO | https://walmart.wd504.myworkdayjobs.com/en-US/walmartexternal/job/Thornton-CO/XMLNAME--USA--Member-Specialist_R-2572387 |
 | Walmart | Posted Today |  | (USA) Store Manager - Division 1/Neighborhood Market | (USA) GA ATLANTA 07601 NEIGHBORHOOD MARKET | https://walmart.wd504.myworkdayjobs.com/en-US/walmartexternal/job/USA-GA-ATLANTA-07601-NEIGHBORHOOD-MARKET/XMLNAME--USA--Store-Manager---Division-1-Neighborhood-Market_R-2572332-1 |
 | Wells Fargo | Posted Today |  | Personal Banker Greater Vine Yountville Santa Rosa CA | 2 Locations | https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/YOUNTVILLE-CA/Personal-Banker-Greater-Vine-Yountville_R-559967 |
