@@ -1,6 +1,2 @@
-{"company": "General Motors", "endpoint": "https://generalmotors.wd5.myworkdayjobs.com/wday/cxs/generalmotors/Careers_GM/jobs", "offset": 80, "error": "General Motors: TIMEOUT @ offset=80"}
-{"company": "Morgan Stanley", "endpoint": "https://ms.wd5.myworkdayjobs.com/wday/cxs/ms/External/jobs", "offset": 60, "error": "Morgan Stanley: TIMEOUT @ offset=60"}
-{"company": "Comcast", "endpoint": "https://comcast.wd5.myworkdayjobs.com/wday/cxs/comcast/Comcast_Careers/jobs", "offset": 100, "error": "Comcast: TIMEOUT @ offset=100"}
-{"company": "Visa", "endpoint": "https://visa.wd5.myworkdayjobs.com/wday/cxs/visa/Visa/jobs", "offset": 0, "error": "Visa: TIMEOUT @ offset=0"}
-{"company": "Fiserv", "endpoint": "https://fiserv.wd5.myworkdayjobs.com/wday/cxs/fiserv/EXT/jobs", "offset": 120, "error": "Fiserv: TIMEOUT @ offset=120"}
 {"company": "Charles Schwab", "endpoint": "https://schwab.wd1.myworkdayjobs.com/wday/cxs/schwab/External/jobs", "offset": 0, "status": 422, "error": "422 Client Error: Unprocessable Entity for url: https://schwab.wd1.myworkdayjobs.com/wday/cxs/schwab/External/jobs"}
+{"company": "Medline", "endpoint": "https://medline.wd5.myworkdayjobs.com/wday/cxs/medline/Medline/jobs", "offset": 360, "error": "Medline: BAD_JSON @ offset=360"}
