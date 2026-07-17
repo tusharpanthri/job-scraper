@@ -1,86 +1,105 @@
-# Priority: Today/Yesterday — 2026-07-17T03:25:34-04:00
+# Priority: Today/Yesterday — 2026-07-17T06:07:53-04:00
 
-1784 roles
+1802 roles
 
 | Company | Posted | New? | Role | Location | Link |
 |---|---|---|---|---|---|
-| Applied Materials | Posted Today | NEW | Buyer (B1) | Austin,TX | https://amat.wd1.myworkdayjobs.com/en-US/External/job/AustinTX/Buyer--B1-_R2624255 |
-| Applied Materials | Posted Today | NEW | Buyer (B2) | Austin,TX | https://amat.wd1.myworkdayjobs.com/en-US/External/job/AustinTX/Buyer--B2-_R2624256 |
-| Applied Materials | Posted Today | NEW | Buyer (B3) | Santa Clara,CA | https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Buyer--B3-_R2624254 |
-| Applied Materials | Posted Today | NEW | Buyer (B3) | Austin,TX | https://amat.wd1.myworkdayjobs.com/en-US/External/job/AustinTX/Buyer--B3-_R2624249 |
-| Applied Materials | Posted Today | NEW | Buyer (B3) | Austin,TX | https://amat.wd1.myworkdayjobs.com/en-US/External/job/AustinTX/Buyer--B3-_R2624250 |
-| Applied Materials | Posted Today | NEW | Buyer (B3) | Austin,TX | https://amat.wd1.myworkdayjobs.com/en-US/External/job/AustinTX/Buyer--B3-_R2624253 |
-| Applied Materials | Posted Today | NEW | Buyer (B3) | Austin,TX | https://amat.wd1.myworkdayjobs.com/en-US/External/job/AustinTX/Buyer--B3-_R2624263 |
-| Applied Materials | Posted Today | NEW | Director, Materials Project Mgt (M6) | Austin,TX | https://amat.wd1.myworkdayjobs.com/en-US/External/job/AustinTX/Director--Materials-Project-Mgt--M6-_R2624261 |
-| Applied Materials | Posted Today | NEW | Director, Supplier Account Manager (M6) | Santa Clara,CA | https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Director--Supplier-Account-Manager--M6-_R2624270 |
-| Applied Materials | Posted Today | NEW | IT Solutions Management (B4) | Austin,TX | https://amat.wd1.myworkdayjobs.com/en-US/External/job/AustinTX/IT-Solutions-Management--B4-_R2624273 |
-| Applied Materials | Posted Today | NEW | Materials Project Manager (B2) | Austin,TX | https://amat.wd1.myworkdayjobs.com/en-US/External/job/AustinTX/Materials-Project-Manager--B2-_R2624241 |
-| Applied Materials | Posted Today | NEW | Materials Project Manager (B2) | Austin,TX | https://amat.wd1.myworkdayjobs.com/en-US/External/job/AustinTX/Materials-Project-Manager--B2-_R2624264 |
-| Applied Materials | Posted Today | NEW | Materials Project Manager (B2) | Austin,TX | https://amat.wd1.myworkdayjobs.com/en-US/External/job/AustinTX/Materials-Project-Manager--B2-_R2624265 |
-| Applied Materials | Posted Today | NEW | Materials Project Manager (B3) | Austin,TX | https://amat.wd1.myworkdayjobs.com/en-US/External/job/AustinTX/Materials-Project-Manager--B3-_R2624242 |
-| Applied Materials | Posted Today | NEW | Materials Project Manager (B3) | Austin,TX | https://amat.wd1.myworkdayjobs.com/en-US/External/job/AustinTX/Materials-Project-Manager--B3-_R2624252 |
-| Applied Materials | Posted Today | NEW | Materials Project Manager (B3) | Austin,TX | https://amat.wd1.myworkdayjobs.com/en-US/External/job/AustinTX/Materials-Project-Manager--B3-_R2624262 |
-| Applied Materials | Posted Today | NEW | Materials Project Manager (B3) | Austin,TX | https://amat.wd1.myworkdayjobs.com/en-US/External/job/AustinTX/Materials-Project-Manager--B3-_R2624266 |
-| Applied Materials | Posted Today | NEW | Materials Project Manager (B3) | Austin,TX | https://amat.wd1.myworkdayjobs.com/en-US/External/job/AustinTX/Materials-Project-Manager--B3-_R2624267 |
-| Applied Materials | Posted Today | NEW | Materials Project Manager (B3) | Austin,TX | https://amat.wd1.myworkdayjobs.com/en-US/External/job/AustinTX/Materials-Project-Manager--B3-_R2624271 |
-| Applied Materials | Posted Today | NEW | Materials Project Manager (B3) | Austin,TX | https://amat.wd1.myworkdayjobs.com/en-US/External/job/AustinTX/Materials-Project-Manager--B3-_R2624272 |
-| Applied Materials | Posted Today | NEW | Materials Project Manager (B4) | Austin,TX | https://amat.wd1.myworkdayjobs.com/en-US/External/job/AustinTX/Materials-Project-Manager--B4-_R2624251 |
-| Applied Materials | Posted Today | NEW | Materials Project Manager (B4) | Austin,TX | https://amat.wd1.myworkdayjobs.com/en-US/External/job/AustinTX/Materials-Project-Manager--B4-_R2624268 |
-| Applied Materials | Posted Today | NEW | Materials Project Manager (B4) | Austin,TX | https://amat.wd1.myworkdayjobs.com/en-US/External/job/AustinTX/Materials-Project-Manager--B4-_R2624269 |
-| Applied Materials | Posted Today | NEW | Materials Project Manager - MCOS (B3) | Austin,TX | https://amat.wd1.myworkdayjobs.com/en-US/External/job/AustinTX/Materials-Project-Manager---MCOS--B3-_R2624259 |
-| Applied Materials | Posted Today | NEW | Materials Project Manager - MCOS (B3) | Austin,TX | https://amat.wd1.myworkdayjobs.com/en-US/External/job/AustinTX/Materials-Project-Manager---MCOS--B3-_R2624260 |
-| Applied Materials | Posted Today | NEW | Materials Project Manager - MCOS (B4) | Austin,TX | https://amat.wd1.myworkdayjobs.com/en-US/External/job/AustinTX/Materials-Project-Manager---MCOS--B4-_R2624246 |
-| Applied Materials | Posted Today | NEW | Non-Technical Program Manager (B4) | Santa Clara,CA | https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Non-Technical-Program-Manager--B4-_R2624257 |
-| Applied Materials | Posted Today | NEW | Supplier Account Manager (B3) | Santa Clara,CA | https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Supplier-Account-Manager--B3-_R2624245 |
-| Applied Materials | Posted Today | NEW | Supplier Account Manager (B5) | Santa Clara,CA | https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Supplier-Account-Manager--B5-_R2624244 |
-| Applied Materials | Posted Today | NEW | Supplier Account Technologist (E5) | Santa Clara,CA | https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Supplier-Account-Technologist--E5-_R2624243 |
-| Applied Materials | Posted Today | NEW | Supplier Business Manager (B3) | Santa Clara,CA | https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Supplier-Business-Manager--B3-_R2624258 |
-| Applied Materials | Posted Today | NEW | Supplier Business Manager (B3) | Austin,TX | https://amat.wd1.myworkdayjobs.com/en-US/External/job/AustinTX/Supplier-Business-Manager--B3-_R2624247 |
-| Applied Materials | Posted Today | NEW | Supplier Business Manager (B3) | Austin,TX | https://amat.wd1.myworkdayjobs.com/en-US/External/job/AustinTX/Supplier-Business-Manager--B3-_R2624248 |
-| Applied Materials | Posted Today | NEW | Supplier Business Manager (B3) | Austin,TX | https://amat.wd1.myworkdayjobs.com/en-US/External/job/AustinTX/Supplier-Business-Manager--B3-_R2624274 |
-| Barclays | Posted Today | NEW | Product Manager - AVP | 2 Locations | https://barclays.wd3.myworkdayjobs.com/en-US/External_Career_Site_Barclays/job/Gurugram-DLF-Downtown/Product-Manager---AVP_JR-0000120372 |
+| Applied Materials | Posted Today |  | Buyer (B1) | Austin,TX | https://amat.wd1.myworkdayjobs.com/en-US/External/job/AustinTX/Buyer--B1-_R2624255 |
+| Applied Materials | Posted Today |  | Buyer (B2) | Austin,TX | https://amat.wd1.myworkdayjobs.com/en-US/External/job/AustinTX/Buyer--B2-_R2624256 |
+| Applied Materials | Posted Today |  | Buyer (B3) | Santa Clara,CA | https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Buyer--B3-_R2624254 |
+| Applied Materials | Posted Today |  | Buyer (B3) | Austin,TX | https://amat.wd1.myworkdayjobs.com/en-US/External/job/AustinTX/Buyer--B3-_R2624249 |
+| Applied Materials | Posted Today |  | Buyer (B3) | Austin,TX | https://amat.wd1.myworkdayjobs.com/en-US/External/job/AustinTX/Buyer--B3-_R2624250 |
+| Applied Materials | Posted Today |  | Buyer (B3) | Austin,TX | https://amat.wd1.myworkdayjobs.com/en-US/External/job/AustinTX/Buyer--B3-_R2624253 |
+| Applied Materials | Posted Today |  | Buyer (B3) | Austin,TX | https://amat.wd1.myworkdayjobs.com/en-US/External/job/AustinTX/Buyer--B3-_R2624263 |
+| Applied Materials | Posted Today |  | Director, Materials Project Mgt (M6) | Austin,TX | https://amat.wd1.myworkdayjobs.com/en-US/External/job/AustinTX/Director--Materials-Project-Mgt--M6-_R2624261 |
+| Applied Materials | Posted Today |  | Director, Supplier Account Manager (M6) | Santa Clara,CA | https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Director--Supplier-Account-Manager--M6-_R2624270 |
+| Applied Materials | Posted Today |  | IT Solutions Management (B4) | Austin,TX | https://amat.wd1.myworkdayjobs.com/en-US/External/job/AustinTX/IT-Solutions-Management--B4-_R2624273 |
+| Applied Materials | Posted Today |  | Materials Project Manager (B2) | Austin,TX | https://amat.wd1.myworkdayjobs.com/en-US/External/job/AustinTX/Materials-Project-Manager--B2-_R2624241 |
+| Applied Materials | Posted Today |  | Materials Project Manager (B2) | Austin,TX | https://amat.wd1.myworkdayjobs.com/en-US/External/job/AustinTX/Materials-Project-Manager--B2-_R2624264 |
+| Applied Materials | Posted Today |  | Materials Project Manager (B2) | Austin,TX | https://amat.wd1.myworkdayjobs.com/en-US/External/job/AustinTX/Materials-Project-Manager--B2-_R2624265 |
+| Applied Materials | Posted Today |  | Materials Project Manager (B3) | Austin,TX | https://amat.wd1.myworkdayjobs.com/en-US/External/job/AustinTX/Materials-Project-Manager--B3-_R2624242 |
+| Applied Materials | Posted Today |  | Materials Project Manager (B3) | Austin,TX | https://amat.wd1.myworkdayjobs.com/en-US/External/job/AustinTX/Materials-Project-Manager--B3-_R2624252 |
+| Applied Materials | Posted Today |  | Materials Project Manager (B3) | Austin,TX | https://amat.wd1.myworkdayjobs.com/en-US/External/job/AustinTX/Materials-Project-Manager--B3-_R2624262 |
+| Applied Materials | Posted Today |  | Materials Project Manager (B3) | Austin,TX | https://amat.wd1.myworkdayjobs.com/en-US/External/job/AustinTX/Materials-Project-Manager--B3-_R2624266 |
+| Applied Materials | Posted Today |  | Materials Project Manager (B3) | Austin,TX | https://amat.wd1.myworkdayjobs.com/en-US/External/job/AustinTX/Materials-Project-Manager--B3-_R2624267 |
+| Applied Materials | Posted Today |  | Materials Project Manager (B3) | Austin,TX | https://amat.wd1.myworkdayjobs.com/en-US/External/job/AustinTX/Materials-Project-Manager--B3-_R2624271 |
+| Applied Materials | Posted Today |  | Materials Project Manager (B3) | Austin,TX | https://amat.wd1.myworkdayjobs.com/en-US/External/job/AustinTX/Materials-Project-Manager--B3-_R2624272 |
+| Applied Materials | Posted Today |  | Materials Project Manager (B4) | Austin,TX | https://amat.wd1.myworkdayjobs.com/en-US/External/job/AustinTX/Materials-Project-Manager--B4-_R2624251 |
+| Applied Materials | Posted Today |  | Materials Project Manager (B4) | Austin,TX | https://amat.wd1.myworkdayjobs.com/en-US/External/job/AustinTX/Materials-Project-Manager--B4-_R2624268 |
+| Applied Materials | Posted Today |  | Materials Project Manager (B4) | Austin,TX | https://amat.wd1.myworkdayjobs.com/en-US/External/job/AustinTX/Materials-Project-Manager--B4-_R2624269 |
+| Applied Materials | Posted Today |  | Materials Project Manager - MCOS (B3) | Austin,TX | https://amat.wd1.myworkdayjobs.com/en-US/External/job/AustinTX/Materials-Project-Manager---MCOS--B3-_R2624259 |
+| Applied Materials | Posted Today |  | Materials Project Manager - MCOS (B3) | Austin,TX | https://amat.wd1.myworkdayjobs.com/en-US/External/job/AustinTX/Materials-Project-Manager---MCOS--B3-_R2624260 |
+| Applied Materials | Posted Today |  | Materials Project Manager - MCOS (B4) | Austin,TX | https://amat.wd1.myworkdayjobs.com/en-US/External/job/AustinTX/Materials-Project-Manager---MCOS--B4-_R2624246 |
+| Applied Materials | Posted Today |  | Non-Technical Program Manager (B4) | Santa Clara,CA | https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Non-Technical-Program-Manager--B4-_R2624257 |
+| Applied Materials | Posted Today |  | Supplier Account Manager (B3) | Santa Clara,CA | https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Supplier-Account-Manager--B3-_R2624245 |
+| Applied Materials | Posted Today |  | Supplier Account Manager (B5) | Santa Clara,CA | https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Supplier-Account-Manager--B5-_R2624244 |
+| Applied Materials | Posted Today |  | Supplier Account Technologist (E5) | Santa Clara,CA | https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Supplier-Account-Technologist--E5-_R2624243 |
+| Applied Materials | Posted Today |  | Supplier Business Manager (B3) | Santa Clara,CA | https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Supplier-Business-Manager--B3-_R2624258 |
+| Applied Materials | Posted Today |  | Supplier Business Manager (B3) | Austin,TX | https://amat.wd1.myworkdayjobs.com/en-US/External/job/AustinTX/Supplier-Business-Manager--B3-_R2624247 |
+| Applied Materials | Posted Today |  | Supplier Business Manager (B3) | Austin,TX | https://amat.wd1.myworkdayjobs.com/en-US/External/job/AustinTX/Supplier-Business-Manager--B3-_R2624248 |
+| Applied Materials | Posted Today |  | Supplier Business Manager (B3) | Austin,TX | https://amat.wd1.myworkdayjobs.com/en-US/External/job/AustinTX/Supplier-Business-Manager--B3-_R2624274 |
+| Barclays | Posted Today | NEW | AVP KYC | 2 Locations | https://barclays.wd3.myworkdayjobs.com/en-US/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/AVP-KYC_JR-0000119790 |
+| Barclays | Posted Today |  | Commercial Growth Manager | 6 Locations | https://barclays.wd3.myworkdayjobs.com/en-US/External_Career_Site_Barclays/job/Northampton-Barclays-Campus-Pavilion-Drive/Commercial-Growth-Manager_JR-0000121874 |
+| Barclays | Posted Today | NEW | Coverage Analyst - AVP | 2 Locations | https://barclays.wd3.myworkdayjobs.com/en-US/External_Career_Site_Barclays/job/Chennai-DLF-IT-Park/Coverage-Analyst---AVP_JR-0000113210-1 |
+| Barclays | Posted Today | NEW | Customer Due Diligence (CDD) Design SME | 2 Locations | https://barclays.wd3.myworkdayjobs.com/en-US/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/Financial-Crime-Compliance-Design-Lead_JR-0000086467 |
+| Barclays | Posted Today | NEW | Data Analyst – AVP | 2 Locations | https://barclays.wd3.myworkdayjobs.com/en-US/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/Data-Analyst---AVP_JR-0000121214-1 |
+| Barclays | Posted Today |  | Product Manager - AVP | 2 Locations | https://barclays.wd3.myworkdayjobs.com/en-US/External_Career_Site_Barclays/job/Gurugram-DLF-Downtown/Product-Manager---AVP_JR-0000120372 |
+| Barclays | Posted Today | NEW | Transaction Monitoring (TM) Design SME | 2 Locations | https://barclays.wd3.myworkdayjobs.com/en-US/External_Career_Site_Barclays/job/Glasgow-Campus/Financial-Crime-Compliance-Design-Lead_JR-0000086471 |
+| Barclays | Posted Today | NEW | VP - Product & Proposition | 2 Locations | https://barclays.wd3.myworkdayjobs.com/en-US/External_Career_Site_Barclays/job/Gurugram-DLF-Downtown/VP---Product---Proposition_JR-0000120536-1 |
+| Bristol Myers Squibb | Posted Today | NEW | International Therapeutic Area Head | 9 Locations | https://bristolmyerssquibb.wd5.myworkdayjobs.com/en-US/BMS/job/Boudry---CH/International-Therapeutic-Area-Head_R1604503 |
+| Bristol Myers Squibb | Posted Today | NEW | International Therapeutic Area Head (iTAH) | 9 Locations | https://bristolmyerssquibb.wd5.myworkdayjobs.com/en-US/BMS/job/Boudry---CH/International-Therapeutic-Area-Head--iTAH-_R1604496 |
+| Capital One | Posted Today |  | Lead Software Engineer | Bangalore, In | https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Bangalore-In/Lead-Software-Engineer_R242988-2 |
 | CenterWell | Posted Today |  | Medical Receptionist | Wellington, FL | https://humana.wd5.myworkdayjobs.com/en-US/CenterWell_External_Career_Site/job/Wellington-FL/Medical-Receptionist_R-422180-1 |
 | CenterWell | Posted Today |  | Medical Receptionist | Delray Beach, FL | https://humana.wd5.myworkdayjobs.com/en-US/CenterWell_External_Career_Site/job/Delray-Beach-FL/Medical-Receptionist_R-422604-1 |
-| Cigna / Evernorth | Posted Today | NEW | Home Infusion Nurse – Accredo - Franklin Lakes, NJ | 3 Locations | https://cigna.wd5.myworkdayjobs.com/en-US/cignacareers/job/Franklin-Lakes-NJ/Home-Infusion-Nurse---Accredo---Franklin-Lakes--NJ_26009009 |
-| Cigna / Evernorth | Posted Today | NEW | Infusion Nurse II, Cardiopulmonary - Accredo - Winter Park, FL | 5 Locations | https://cigna.wd5.myworkdayjobs.com/en-US/cignacareers/job/Orlando-FL/Infusion-Nurse-II--Cardiopulmonary---Accredo---Winter-Park--FL_26009010 |
-| Citi | Posted Today | NEW | Ops Support Specialist 5 | 2 Locations | https://citi.wd5.myworkdayjobs.com/en-US/2/job/Pune-Maharashtra-India/Ops-Support-Specialist-5_26972250-1 |
-| Eli Lilly | Posted Today | NEW | Pharmaceutical Sales - Associate Territory Manager - Cardiometabolic Health | 2 Locations | https://lilly.wd115.myworkdayjobs.com/en-US/LLY/job/US-Lawton-OK/Pharmaceutical-Sales---Associate-Territory-Manager---Cardiometabolic-Health_R-106208-1 |
+| Cigna / Evernorth | Posted Today |  | Home Infusion Nurse – Accredo - Franklin Lakes, NJ | 3 Locations | https://cigna.wd5.myworkdayjobs.com/en-US/cignacareers/job/Franklin-Lakes-NJ/Home-Infusion-Nurse---Accredo---Franklin-Lakes--NJ_26009009 |
+| Cigna / Evernorth | Posted Today |  | Infusion Nurse II, Cardiopulmonary - Accredo - Winter Park, FL | 5 Locations | https://cigna.wd5.myworkdayjobs.com/en-US/cignacareers/job/Orlando-FL/Infusion-Nurse-II--Cardiopulmonary---Accredo---Winter-Park--FL_26009010 |
+| Citi | Posted Today |  | Ops Support Specialist 5 | 2 Locations | https://citi.wd5.myworkdayjobs.com/en-US/2/job/Pune-Maharashtra-India/Ops-Support-Specialist-5_26972250-1 |
+| Eli Lilly | Posted Today |  | Pharmaceutical Sales - Associate Territory Manager - Cardiometabolic Health | 2 Locations | https://lilly.wd115.myworkdayjobs.com/en-US/LLY/job/US-Lawton-OK/Pharmaceutical-Sales---Associate-Territory-Manager---Cardiometabolic-Health_R-106208-1 |
 | General Motors | Posted Today |  | Sr. System Engineer - Supply Chain Digitization - B2B | Warren, Michigan, United States of America | https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/Sr-System-Engineer---EDI_JR-202614080 |
 | Humana | Posted Today |  | Social Worker, Social Services | 38 Locations | https://humana.wd5.myworkdayjobs.com/en-US/Humana_External_Career_Site/job/Work-at-Home---Kentucky/Care-Manager--Social-Services_R-423041 |
-| Intel | Posted Today | NEW | Ecosystem Development Specialist | 3 Locations | https://intel.wd1.myworkdayjobs.com/en-US/External/job/PRC-Shanghai/Ecosystem-Development-Specialist_JR0284694 |
+| Intel | Posted Today |  | Ecosystem Development Specialist | 3 Locations | https://intel.wd1.myworkdayjobs.com/en-US/External/job/PRC-Shanghai/Ecosystem-Development-Specialist_JR0284694 |
 | Intel | Posted Today |  | MBA Internship – Ecosystem Development Specialist | 3 Locations | https://intel.wd1.myworkdayjobs.com/en-US/External/job/PRC-Shanghai/MBA-Internship---Ecosystem-Development-Specialist_JR0285771 |
 | KLA | Posted Today |  | Customer Engagement Applications Engineer-Tainan/Kaohsiung/Chiayi | 2 Locations | https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Tainan-City-Taiwan/Customer-Engagement-Applications-Engineer-Tainan_2422000 |
-| Mastercard | Posted Today | NEW | Manager, Regulatory Compliance | 2 Locations | https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Mumbai-India/Manager--Regulatory-Compliance_R-282712 |
-| Medtronic | Posted Today | NEW | Associate Therapy Sales Specialist (m/w/d) Neuromodulation | 2 Locations | https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Leipzig-Sachsen-Germany/Associate-Therapy-Sales-Specialist--m-w-d--Neuromodulation_R70506-1 |
-| Medtronic | Posted Today | NEW | Indirect Business Leader - Levant, Central Asia, Cyprus, Iran | 2 Locations | https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Dubai-Dubai-United-Arab-Emirates/Indirect-Business-Leader---Levant--Central-Asia--Cyprus--Iran_R66409-2 |
-| Micron | Posted Today | NEW | Partner Lab Support Engineer | 2 Locations | https://micron.wd1.myworkdayjobs.com/en-US/External/job/Penang-Malaysia---Grande/Partner-Lab-Support-Engineer_JR99173 |
-| Micron | Posted Today | NEW | SR. Scheduling System Engineer | 2 Locations | https://micron.wd1.myworkdayjobs.com/en-US/External/job/Taichung---Fab-16-Taiwan/SR-Scheduling-System-Engineer_JR106244 |
+| Mastercard | Posted Today |  | Manager, Regulatory Compliance | 2 Locations | https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Mumbai-India/Manager--Regulatory-Compliance_R-282712 |
+| Medtronic | Posted Today |  | Associate Therapy Sales Specialist (m/w/d) Neuromodulation | 2 Locations | https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Leipzig-Sachsen-Germany/Associate-Therapy-Sales-Specialist--m-w-d--Neuromodulation_R70506-1 |
+| Medtronic | Posted Today |  | Indirect Business Leader - Levant, Central Asia, Cyprus, Iran | 2 Locations | https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Dubai-Dubai-United-Arab-Emirates/Indirect-Business-Leader---Levant--Central-Asia--Cyprus--Iran_R66409-2 |
+| Medtronic | Posted Today |  | NextGen Academy Intern: Field Support | 2 Locations | https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Eindhoven-Noord-Brabant-Netherlands/NextGen-Academy-Intern--Sales_R71339-1 |
+| Medtronic | Posted Today | NEW | Senior Clinical Research Specialist | 2 Locations | https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Trevoux-Rhne-Alpes-France/Senior-Clinical-Research-Specialist_R71577-1 |
+| Medtronic | Posted Today | NEW | Senior Customer Training Specialist – Hugo RAS Technology | 8 Locations | https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Munich-area-Bavaria-Germany/Senior-Customer-Training-Specialist---Hugo-RAS-Technology_R71466-1 |
+| Micron | Posted Today |  | Partner Lab Support Engineer | 2 Locations | https://micron.wd1.myworkdayjobs.com/en-US/External/job/Penang-Malaysia---Grande/Partner-Lab-Support-Engineer_JR99173 |
+| Micron | Posted Today |  | SR. Scheduling System Engineer | 2 Locations | https://micron.wd1.myworkdayjobs.com/en-US/External/job/Taichung---Fab-16-Taiwan/SR-Scheduling-System-Engineer_JR106244 |
+| NTT Global Data Centers | Posted Today | NEW | Senior Director Design Management | 2 Locations | https://nttglobaldatacenters.wd501.myworkdayjobs.com/en-US/External/job/Chennai-India/Senior-Director-Design-Management_JR101721 |
+| NVIDIA | Posted Today | NEW | Business Development Lead, Automotive | 2 Locations | https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Germany-Munich/Business-Development-Lead--Automotive_JR2020859 |
 | NVIDIA | Posted Today |  | Cyber Security Analyst | 2 Locations | https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Bengaluru/Cyber-Security-Analyst_JR2015853 |
+| NVIDIA | Posted Today | NEW | DFT Verification Engineer | 2 Locations | https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/DFT-Verification-Engineer_JR2020895 |
 | NVIDIA | Posted Today |  | Deep Learning Performance Architect | 2 Locations | https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Deep-Learning-Performance-Architect_JR2021402 |
 | NVIDIA | Posted Today |  | Firmware Engineer | 2 Locations | https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Beijing/Firmware-Engineer_JR2021042 |
+| NVIDIA | Posted Today | NEW | Senior CPU Compiler Performance Engineer | 4 Locations | https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/UK-Cambridge/Senior-CPU-Compiler-Performance-Engineer_JR2021384 |
 | NVIDIA | Posted Today |  | Senior DevOps Software Engineer - Chip Design | 2 Locations | https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Senior-Software-Infrastructure-Engineer---Chip-Design_JR2021392 |
 | NVIDIA | Posted Today |  | Senior Network Modeling Architect | 3 Locations | https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-Network-Modeling-Architect_JR2021271 |
-| Thermo Fisher | Posted Today | NEW | 2nd shift Room Leader | Allentown, Pennsylvania, USA | https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Allentown-Pennsylvania-USA/XMLNAME-2nd-shift-Room-Leader_R-01360478 |
-| Thermo Fisher | Posted Today | NEW | Operator I APR 2nd shift | Lenexa, Kansas, USA | https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Lenexa-Kansas-USA/Operator-I-APR-2nd-shift_R-01360572 |
-| Thermo Fisher | Posted Today | NEW | Operator II APR 2nd shift | Lenexa, Kansas, USA | https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Lenexa-Kansas-USA/Operator-II-APR-2nd-shift_R-01360573 |
-| Thermo Fisher | Posted Today | NEW | Operator II APR 2nd shift | Lenexa, Kansas, USA | https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Lenexa-Kansas-USA/Operator-II-APR-2nd-shift_R-01360571-1 |
-| Thermo Fisher | Posted Today | NEW | Packaging/Labeling Technician III | Allentown, Pennsylvania, USA | https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Allentown-Pennsylvania-USA/Packaging-Labeling-Technician-III_R-01360477 |
+| NVIDIA | Posted Today | NEW | Senior Platform Engineer, Network Infrastructure | 4 Locations | https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Bengaluru/Senior-Platform-Engineer--Network-Infrastructure_JR2021500 |
+| Thermo Fisher | Posted Today |  | 2nd shift Room Leader | Allentown, Pennsylvania, USA | https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Allentown-Pennsylvania-USA/XMLNAME-2nd-shift-Room-Leader_R-01360478 |
+| Thermo Fisher | Posted Today |  | Operator I APR 2nd shift | Lenexa, Kansas, USA | https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Lenexa-Kansas-USA/Operator-I-APR-2nd-shift_R-01360572 |
+| Thermo Fisher | Posted Today |  | Operator II APR 2nd shift | Lenexa, Kansas, USA | https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Lenexa-Kansas-USA/Operator-II-APR-2nd-shift_R-01360573 |
+| Thermo Fisher | Posted Today |  | Operator II APR 2nd shift | Lenexa, Kansas, USA | https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Lenexa-Kansas-USA/Operator-II-APR-2nd-shift_R-01360571-1 |
+| Thermo Fisher | Posted Today |  | Packaging/Labeling Technician III | Allentown, Pennsylvania, USA | https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Allentown-Pennsylvania-USA/Packaging-Labeling-Technician-III_R-01360477 |
 | Thermo Fisher | Posted Today |  | Pharmaceutical Technician II | 2 Locations | https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Singapore-Singapore/Pharmaceutical-Technician-II_R-01349948-1 |
 | Thermo Fisher | Posted Today |  | Pharmaceutical Technician II | 2 Locations | https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Singapore-Singapore/Pharmaceutical-Technician-II_R-01349943-1 |
 | Thermo Fisher | Posted Today |  | Pharmaceutical Technician II | 2 Locations | https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Singapore-Singapore/Pharmaceutical-Technician-II_R-01349946-1 |
 | Thermo Fisher | Posted Today |  | Pharmaceutical Technician II | 2 Locations | https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Singapore-Singapore/Pharmaceutical-Technician-II_R-01354187 |
 | Thermo Fisher | Posted Today |  | Pharmaceutical Technician II | 2 Locations | https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Singapore-Singapore/Pharmaceutical-Technician-II_R-01354189 |
 | Thermo Fisher | Posted Today |  | Pharmaceutical Technician II | 2 Locations | https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Singapore-Singapore/Pharmaceutical-Technician-II_R-01360380 |
+| Thermo Fisher | Posted Today | NEW | Senior Manager, Advanced Contract Manufacturing Engineering | 2 Locations | https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Budapest-Hungary/Senior-Manager--Advanced-Contract-Manufacturing-Engineering_R-01338453 |
 | Thermo Fisher | Posted Today |  | Sr Pharmaceutical Technician | 2 Locations | https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Singapore-Singapore/Sr-Pharmaceutical-Technician_R-01357318 |
 | U.S. Bank | Posted Today |  | Small Business Sales Manager - East Region | 8 Locations | https://usbank.wd1.myworkdayjobs.com/en-US/US_Bank_Careers/job/Cincinnati-OH/Small-Business-Sales-Manager---East-Region_2026-0021295 |
-| Wells Fargo | Posted Today | NEW | CA-WA Mortgage Retail Sales Consultant | EL SEGUNDO, CA | https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/EL-SEGUNDO-CA/CA-WA-Mortgage-Retail-Sales-Consultant_R-560465-1 |
+| Wells Fargo | Posted Today |  | CA-WA Mortgage Retail Sales Consultant | EL SEGUNDO, CA | https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/EL-SEGUNDO-CA/CA-WA-Mortgage-Retail-Sales-Consultant_R-560465-1 |
 | Wells Fargo | Posted Today |  | Personal Banker Andover MN | ANDOVER, MN | https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/ANDOVER-MN/Personal-Banker-Andover-MN_R-559219 |
 | Wells Fargo | Posted Today |  | Personal Banker Oakhurst | SEMINOLE, FL | https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/SEMINOLE-FL/Personal-Banker-Oakhurst_R-554040 |
 | Wells Fargo | Posted Today |  | Personal Banker Sawgrass Village | PONTE VEDRA BEACH, FL | https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/PONTE-VEDRA-BEACH-FL/Personal-Banker-Sawgrass-Village_R-558861 |
 | Wells Fargo | Posted Today |  | Relationship Banker Cypress Gardens | WINTER HAVEN, FL | https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/WINTER-HAVEN-FL/Relationship-Banker-Cypress-Gardens_R-554288 |
 | Wells Fargo | Posted Today |  | Senior Premier Banker Anastasia Island | SAINT AUGUSTINE, FL | https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/SAINT-AUGUSTINE-FL/Senior-Premier-Banker-Anastasia-Island_R-553662 |
 | Wells Fargo | Posted Today |  | Senior Premier Banker Sebastian | SEBASTIAN, FL | https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/SEBASTIAN-FL/Senior-Premier-Banker-Sebastian_R-553903-1 |
-| Wells Fargo | Posted Today | NEW | Teller Lakeville Main | LAKEVILLE, MN | https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/LAKEVILLE-MN/Teller-Lakeville-Main_R-561256 |
+| Wells Fargo | Posted Today |  | Teller Lakeville Main | LAKEVILLE, MN | https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/LAKEVILLE-MN/Teller-Lakeville-Main_R-561256 |
 | ASML | Posted Yesterday |  | Co-Op - Optical Engineer (Internship) | Wilton, CT, USA | https://asml.wd3.myworkdayjobs.com/en-US/ASMLEXT1/job/Wilton-CT-USA/Co-Op---Optical-Engineer--Internship-_J-00345627 |
 | ASML | Posted Yesterday |  | DUV FLS Production Engineer | Wilton, CT, USA | https://asml.wd3.myworkdayjobs.com/en-US/ASMLEXT1/job/Wilton-CT-USA/DUV-FLS-Production-Engineer_J-00346629 |
 | ASML | Posted Yesterday |  | FLS Production Engineer - Optical Alignment & Metrology Competency (Days) | Wilton, CT, USA | https://asml.wd3.myworkdayjobs.com/en-US/ASMLEXT1/job/Wilton-CT-USA/FLS-Production-Engineer---Optical-Alignment---Metrology-Competency--Days-_J-00348173 |
@@ -223,7 +242,6 @@
 | Bank of America | Posted Yesterday |  | Sr. Relationship Manager - Global Commercial Bank - Middle Market | 2 Locations | https://ghr.wd1.myworkdayjobs.com/en-US/Lateral-US/job/Fort-Lauderdale/Sr-Relationship-Manager---Global-Commercial-Bank---Middle-Market_26023447-1 |
 | Barclays | Posted Yesterday |  | Business Analyst | 2 Locations | https://barclays.wd3.myworkdayjobs.com/en-US/External_Career_Site_Barclays/job/Glasgow-Campus/Business-Analyst_JR-0000106764-1 |
 | Barclays | Posted Yesterday |  | Cloud Security Audit AVP | 2 Locations | https://barclays.wd3.myworkdayjobs.com/en-US/External_Career_Site_Barclays/job/Knutsford-Radbroke-Hall/Cloud-Security-Audit-AVP_JR-0000081853 |
-| Barclays | Posted Yesterday |  | Commercial Growth Manager | 6 Locations | https://barclays.wd3.myworkdayjobs.com/en-US/External_Career_Site_Barclays/job/Northampton-Barclays-Campus-Pavilion-Drive/Commercial-Growth-Manager_JR-0000121874 |
 | Barclays | Posted Yesterday |  | Construction and Commercial/Technology Lawyer AVP | 3 Locations | https://barclays.wd3.myworkdayjobs.com/en-US/External_Career_Site_Barclays/job/Birmingham-One-Snow-Hill/Commercial-and-Technology-Lawyer-AVP_JR-0000096087 |
 | Barclays | Posted Yesterday |  | Director, Markets Audit - Securitised Products | 2 Locations | https://barclays.wd3.myworkdayjobs.com/en-US/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/Director--Markets-Audit---Securitised-Products_JR-0000110421 |
 | Barclays | Posted Yesterday |  | Product Manager | 2 Locations | https://barclays.wd3.myworkdayjobs.com/en-US/External_Career_Site_Barclays/job/Gurugram-DLF-Downtown/Product-Manager_JR-0000122854 |
@@ -690,7 +708,7 @@
 | Gilead | Posted Yesterday |  | Senior Manager, IT Finance | 2 Locations | https://gilead.wd1.myworkdayjobs.com/en-US/gileadcareers/job/United-States---California---Foster-City/Senior-Manager--IT-Finance_R0053571-2 |
 | Gilead | Posted Yesterday |  | Sr Manager, Medical Information | 2 Locations | https://gilead.wd1.myworkdayjobs.com/en-US/gileadcareers/job/United-States---California---Foster-City/Sr-Manager--Medical-Information_R0053266-2 |
 | HP | Posted Yesterday |  | Business Strategy Principal – HP Solutions Strategy | 2 Locations | https://hp.wd5.myworkdayjobs.com/en-US/ExternalCareerSite/job/Palo-Alto-California-United-States-of-America/Business-Strategy-Principal---HP-Solutions-Strategy_3164335-1 |
-| HP | Posted Yesterday | NEW | Cybersecurity Policy Writer & Governance Lead | 2 Locations | https://hp.wd5.myworkdayjobs.com/en-US/ExternalCareerSite/job/Austin-Texas-United-States-of-America/Cybersecurity-Policy-Writer---Governance-Lead_3160168-2 |
+| HP | Posted Yesterday |  | Cybersecurity Policy Writer & Governance Lead | 2 Locations | https://hp.wd5.myworkdayjobs.com/en-US/ExternalCareerSite/job/Austin-Texas-United-States-of-America/Cybersecurity-Policy-Writer---Governance-Lead_3160168-2 |
 | HP | Posted Yesterday |  | Federal Account Manager | All Cities, District of Columbia, United States of America | https://hp.wd5.myworkdayjobs.com/en-US/ExternalCareerSite/job/All-Cities-District-of-Columbia-United-States-of-America/Federal-Account-Manager_3163468-1 |
 | HP | Posted Yesterday |  | Inside Sales Representative, Outbound | Austin, Texas, United States of America | https://hp.wd5.myworkdayjobs.com/en-US/ExternalCareerSite/job/Austin-Texas-United-States-of-America/Inside-Sales-Rep-3--Outbound_3161639-1 |
 | HP | Posted Yesterday |  | NA Workstation Category Sales Enablement | 2 Locations | https://hp.wd5.myworkdayjobs.com/en-US/ExternalCareerSite/job/Vancouver-Washington-United-States-of-America/NA-Workstation-Category-Sales-Enablement_3162982-1 |
@@ -745,7 +763,7 @@
 | Intel | Posted Yesterday |  | Manufacturing Operations Manager Shift 6 – Advanced Packaging | US, Arizona, Phoenix | https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/Manufacturing-Operations-Manager-Shift-6---Advanced-Packaging_JR0285733 |
 | Intel | Posted Yesterday |  | Mixed Signal Design Verification Engineer | US, Oregon, Hillsboro | https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Mixed-Signal-Design-Verification-Engineer_JR0285739 |
 | Intel | Posted Yesterday |  | Module Development Defect Inspection Engineer | US, Oregon, Hillsboro | https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Module-Development-Defect-Inspection-Engineer_JR0285736 |
-| Intel | Posted Yesterday | NEW | Network Systems and Solutions Engineer | US, Oregon, Hillsboro | https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Network-Systems-and-Solutions-Engineer_JR0285494 |
+| Intel | Posted Yesterday |  | Network Systems and Solutions Engineer | US, Oregon, Hillsboro | https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Network-Systems-and-Solutions-Engineer_JR0285494 |
 | Intel | Posted Yesterday |  | OTF IFA AMHS Equipment Technician | US, Arizona, Phoenix | https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/OTF-IFA-AMHS-Equipment-Technician_JR0285597 |
 | Intel | Posted Yesterday |  | Ocotillo Technology Fabrication Production Line Coordinator | US, Arizona, Phoenix | https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/Ocotillo-Technology-Fabrication-Production-Line-Coordinator_JR0285567-1 |
 | Intel | Posted Yesterday |  | Ocotillo Technology Fabrication Wet Etch Module Engineer | US, Arizona, Phoenix | https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/Ocotillo-Technology-Fabrication-Wet-Etch-Module-Engineer_JR0285573-1 |
@@ -754,7 +772,7 @@
 | Intel | Posted Yesterday |  | Sales Account Manager - Team Oracle | 2 Locations | https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Santa-Clara/Sales-Account-Manager---Team-Oracle_JR0285720 |
 | Intel | Posted Yesterday |  | Sales Engineer - Dallas, TX | Virtual US | https://intel.wd1.myworkdayjobs.com/en-US/External/job/Virtual-US/Sales-Engineer---Dallas--TX_JR0285737 |
 | Intel | Posted Yesterday |  | Senior Design Verification Engineer | US, California, Santa Clara | https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Santa-Clara/Senior-Design-Verification-Engineer_JR0284688 |
-| Intel | Posted Yesterday | NEW | Signal Integrity Engineer | US, Oregon, Hillsboro | https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Signal-Integrity-Engineer_JR0285502 |
+| Intel | Posted Yesterday |  | Signal Integrity Engineer | US, Oregon, Hillsboro | https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Signal-Integrity-Engineer_JR0285502 |
 | Intel | Posted Yesterday |  | WLA Yield Defect Metrology Engineer | US, Oregon, Hillsboro | https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/WLA-Yield-Defect-Metrology-Engineer_JR0284079 |
 | Intuitive Surgical | Posted Yesterday |  | Buyer | Huntsville, AL | https://intuitive.wd1.myworkdayjobs.com/en-US/irtc_careers/job/Huntsville-AL/Buyer_2627-033 |
 | KLA | Posted Yesterday |  | Engineering Technician | Totowa, NJ | https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Totowa-NJ/Engineering-Technician_2638166 |
@@ -1722,7 +1740,7 @@
 | Wells Fargo | Posted Yesterday |  | Technology Issues & Delivery Engagement Senior Lead | 3 Locations | https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/ISELIN-NJ/Technology-Issues---Delivery-Engagement-Senior-Lead_R-560882 |
 | Wells Fargo | Posted Yesterday |  | Teller 20 Hour- Tarrant Pkwy & Precinct Line Rd | NORTH RICHLAND HILLS, TX | https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/NORTH-RICHLAND-HILLS-TX/Teller-20-Hour--Tarrant-Pkwy---Precinct-Line-Rd_R-556028 |
 | Wells Fargo | Posted Yesterday |  | Teller Ann And Simmons North Las Vegas | NORTH LAS VEGAS, NV | https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/NORTH-LAS-VEGAS-NV/Teller-Ann-And-Simmons-North-Las-Vegas_R-557752 |
-| Wells Fargo | Posted Yesterday | NEW | Teller Apple Valley | APPLE VALLEY, MN | https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/APPLE-VALLEY-MN/Teller-Apple-Valley_R-560816 |
+| Wells Fargo | Posted Yesterday |  | Teller Apple Valley | APPLE VALLEY, MN | https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/APPLE-VALLEY-MN/Teller-Apple-Valley_R-560816 |
 | Wells Fargo | Posted Yesterday |  | Teller Bilingual Part Time Cooper Center | ALEXANDRIA, VA | https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/ALEXANDRIA-VA/Teller-Bilingual-Part-Time-Cooper-Center_R-554315-1 |
 | Wells Fargo | Posted Yesterday |  | Teller Bilingual Part Time Travelers Rest | GREENVILLE, SC | https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/GREENVILLE-SC/Teller-Bilingual-Part-Time-Travelers-Rest_R-558776 |
 | Wells Fargo | Posted Yesterday |  | Teller Billings | BILLINGS, MT | https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/BILLINGS-MT/Teller-Billings_R-561326 |
@@ -1741,7 +1759,7 @@
 | Wells Fargo | Posted Yesterday |  | Teller Part Time Bender Square | HUMBLE, TX | https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/HUMBLE-TX/Teller-Part-Time-Bender-Square_R-561240 |
 | Wells Fargo | Posted Yesterday |  | Teller Part Time Bilingual San Fernando | SAN FERNANDO, CA | https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/SAN-FERNANDO-CA/Teller-Part-Time-Bilingual-San-Fernando_R-560983 |
 | Wells Fargo | Posted Yesterday |  | Teller Part Time Bird Road | MIAMI, FL | https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/MIAMI-FL/Teller-Part-Time-Bird-Road_R-555715 |
-| Wells Fargo | Posted Yesterday | NEW | Teller Part Time Burnet | BURNET, TX | https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/BURNET-TX/Teller-Part-Time-Burnet_R-561451 |
+| Wells Fargo | Posted Yesterday |  | Teller Part Time Burnet | BURNET, TX | https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/BURNET-TX/Teller-Part-Time-Burnet_R-561451 |
 | Wells Fargo | Posted Yesterday |  | Teller Part Time Cartersville | CARTERSVILLE, GA | https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/CARTERSVILLE-GA/Teller-Part-Time-Cartersville_R-560711 |
 | Wells Fargo | Posted Yesterday |  | Teller Part Time Clemmons | CLEMMONS, NC | https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/CLEMMONS-NC/Teller-Part-Time-Clemmons_R-560912 |
 | Wells Fargo | Posted Yesterday |  | Teller Part Time Corvallis | CORVALLIS, OR | https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/CORVALLIS-OR/Teller-Part-Time-Corvallis_R-561328 |
@@ -1752,7 +1770,7 @@
 | Wells Fargo | Posted Yesterday |  | Teller Part Time Grass Valley | GRASS VALLEY, CA | https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/GRASS-VALLEY-CA/Teller-Part-Time-Grass-Valley_R-561143 |
 | Wells Fargo | Posted Yesterday |  | Teller Part Time Highland and Daycreek | RANCHO CUCAMONGA, CA | https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/RANCHO-CUCAMONGA-CA/Teller-Part-Time-Highland-and-Daycreek_R-561352 |
 | Wells Fargo | Posted Yesterday |  | Teller Part Time Homestead | HOMESTEAD, FL | https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/HOMESTEAD-FL/Teller-Part-Time-Homestead_R-561233 |
-| Wells Fargo | Posted Yesterday | NEW | Teller Part Time Legacy and Coit and MB | PLANO, TX | https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/PLANO-TX/Teller-Part-Time-Legacy-and-Coit-and-MB_R-561310-1 |
+| Wells Fargo | Posted Yesterday |  | Teller Part Time Legacy and Coit and MB | PLANO, TX | https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/PLANO-TX/Teller-Part-Time-Legacy-and-Coit-and-MB_R-561310-1 |
 | Wells Fargo | Posted Yesterday |  | Teller Part Time Macon | MACON, GA | https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/MACON-GA/Teller-Part-Time-Macon_R-559341 |
 | Wells Fargo | Posted Yesterday |  | Teller Part Time McAlpin Square | SAVANNAH, GA | https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/SAVANNAH-GA/Teller-Part-Time-McAlpin-Square_R-559255 |
 | Wells Fargo | Posted Yesterday |  | Teller Part Time Medford | MEDFORD, NJ | https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/MEDFORD-NJ/Teller-Part-Time-Medford_R-552510 |
