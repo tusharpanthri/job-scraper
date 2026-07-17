@@ -1,1 +1,2 @@
+{"company": "Morgan Stanley", "endpoint": "https://ms.wd5.myworkdayjobs.com/wday/cxs/ms/External/jobs", "offset": 40, "error": "Morgan Stanley: BAD_JSON @ offset=40"}
 {"company": "Charles Schwab", "endpoint": "https://schwab.wd1.myworkdayjobs.com/wday/cxs/schwab/External/jobs", "offset": 0, "status": 422, "error": "422 Client Error: Unprocessable Entity for url: https://schwab.wd1.myworkdayjobs.com/wday/cxs/schwab/External/jobs"}
