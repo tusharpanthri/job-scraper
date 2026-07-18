@@ -1,11 +1,12 @@
-# Priority: Today/Yesterday — 2026-07-18T06:34:53-04:00
+# Priority: Today/Yesterday — 2026-07-18T08:01:53-04:00
 
 1510 roles
 
 | Company | Posted | New? | Role | Location | Link |
 |---|---|---|---|---|---|
-| Cigna / Evernorth | Posted Today | NEW | Data Measurement & Reporting Advisor - Evernorth - Remote | 6 Locations | https://cigna.wd5.myworkdayjobs.com/en-US/cignacareers/job/United-States-Work-at-Home/Data-Measurement---Reporting-Advisor---Evernorth---Remote_26006449 |
+| Cigna / Evernorth | Posted Today |  | Data Measurement & Reporting Advisor - Evernorth - Remote | 6 Locations | https://cigna.wd5.myworkdayjobs.com/en-US/cignacareers/job/United-States-Work-at-Home/Data-Measurement---Reporting-Advisor---Evernorth---Remote_26006449 |
 | Thermo Fisher | Posted Today |  | Sr Applications Administrator | 2 Locations | https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Bangalore-India/Sr-Applications-Administrator_R-01358181 |
+| Vanguard | Posted Today | NEW | Extended Hours Client Representative | Malvern, PA | https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Malvern-PA/Extended-Hours-Client-Representative_180685 |
 | ASML | Posted Yesterday |  | Field Service Engineer | Baltimore, MD, USA | https://asml.wd3.myworkdayjobs.com/en-US/ASMLEXT1/job/Baltimore-MD-USA/Field-Service-Engineer_J-00345804-1 |
 | ASML | Posted Yesterday |  | Management Assistant | San Diego, CA, USA | https://asml.wd3.myworkdayjobs.com/en-US/ASMLEXT1/job/San-Diego-CA-USA/Management-Assistant_J-00340869 |
 | ASML | Posted Yesterday |  | NXE Production Engineering Manager | Wilton, CT, USA | https://asml.wd3.myworkdayjobs.com/en-US/ASMLEXT1/job/Wilton-CT-USA/NXE-Production-Engineering-Sr-GL_J-00338246-1 |
@@ -633,7 +634,7 @@
 | Medtronic | Posted Yesterday |  | Senior Coronary Cathworks Territory Manager - Greater GA | 3 Locations | https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Athens-Georgia-United-States-of-America/Senior-Coronary-Cathworks-Territory-Manager---Greater-GA_R69116-1 |
 | Medtronic | Posted Yesterday |  | Senior Customer Training Specialist – Hugo RAS Technology | 8 Locations | https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Munich-area-Bavaria-Germany/Senior-Customer-Training-Specialist---Hugo-RAS-Technology_R71466-1 |
 | Medtronic | Posted Yesterday |  | Senior Government Sales Representative - ACM | 9 Locations | https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/State-of-Minnesota-United-States-of-America/Senior-Government-Sales-Representative---ACM_R69385 |
-| Medtronic | Posted Yesterday | NEW | Senior Manufacturing Engineer - Minneapolis | Minneapolis, Minnesota, United States of America | https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Minneapolis-Minnesota-United-States-of-America/Senior-Manufacturing-Engineer---Minneapolis_R71855-1 |
+| Medtronic | Posted Yesterday |  | Senior Manufacturing Engineer - Minneapolis | Minneapolis, Minnesota, United States of America | https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Minneapolis-Minnesota-United-States-of-America/Senior-Manufacturing-Engineer---Minneapolis_R71855-1 |
 | Medtronic | Posted Yesterday |  | Senior Marketing Specialist, EMS Market Channel - Acute Care and Monitoring | Lafayette, Colorado, United States of America | https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Lafayette-Colorado-United-States-of-America/Senior-Marketing-Specialist--EMS-Market-Channel---Acute-Care-and-Monitoring_R66452-1 |
 | Medtronic | Posted Yesterday |  | Senior Pricing Strategy Analyst - Minneapolis, MN | Minneapolis, Minnesota, United States of America | https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Minneapolis-Minnesota-United-States-of-America/Senior-Pricing-Strategy-Analyst---Minneapolis--MN_R70971-1 |
 | Medtronic | Posted Yesterday |  | Senior Pricing Strategy Analyst - Minneapolis, MN | Fridley, Minnesota, United States of America | https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Fridley-Minnesota-United-States-of-America/Senior-Pricing-Strategy-Analyst---Minneapolis--MN_R68870-1 |
@@ -1073,7 +1074,7 @@
 | U.S. Bank | Posted Yesterday |  | Client Relationship Consultant 3 (Banker) - Naperville | Naperville, IL | https://usbank.wd1.myworkdayjobs.com/en-US/US_Bank_Careers/job/Naperville-IL/Client-Relationship-Consultant-3--Banker----Naperville_2026-0021349 |
 | U.S. Bank | Posted Yesterday |  | Client Relationship Consultant 3 (Banker) - Old Town - Scottsdale, AZ | Scottsdale, AZ | https://usbank.wd1.myworkdayjobs.com/en-US/US_Bank_Careers/job/Scottsdale-AZ/Client-Relationship-Consultant-3--Banker----Old-Town---Scottsdale--AZ_2026-0017560 |
 | U.S. Bank | Posted Yesterday |  | Client Relationship Consultant 3 (Banker) - Pyramid & Los Altos | Sparks, NV | https://usbank.wd1.myworkdayjobs.com/en-US/US_Bank_Careers/job/Sparks-NV/Client-Relationship-Consultant-3--Banker----Pyramid---Los-Altos_2026-0021321 |
-| U.S. Bank | Posted Yesterday | NEW | Client Relationship Consultant 3 (Banker) - Woodinville, WA | Woodinville, WA | https://usbank.wd1.myworkdayjobs.com/en-US/US_Bank_Careers/job/Woodinville-WA/Client-Relationship-Consultant-3--Banker----Woodinville--WA_2026-0021505-1 |
+| U.S. Bank | Posted Yesterday |  | Client Relationship Consultant 3 (Banker) - Woodinville, WA | Woodinville, WA | https://usbank.wd1.myworkdayjobs.com/en-US/US_Bank_Careers/job/Woodinville-WA/Client-Relationship-Consultant-3--Banker----Woodinville--WA_2026-0021505-1 |
 | U.S. Bank | Posted Yesterday |  | Client Relationship Consultant 3 (Banker) Knoxville TN Clinton Hwy Bilingual Spanish Preferred | 2 Locations | https://usbank.wd1.myworkdayjobs.com/en-US/US_Bank_Careers/job/Knoxville-TN/Client-Relationship-Consultant-3--Banker--Clinton-Hwy--TN-Preferred-Spanish_2026-0009674 |
 | U.S. Bank | Posted Yesterday |  | Client Relationship Consultant 3 (Banker) Lincoln 56th & O, NE (40 hours) | Lincoln, NE | https://usbank.wd1.myworkdayjobs.com/en-US/US_Bank_Careers/job/Lincoln-NE/Client-Relationship-Consultant-3--Banker--Lincoln-56th---O--NE--40-hours-_2026-0021010 |
 | U.S. Bank | Posted Yesterday |  | Client Relationship Consultant 3 (Banker) Virginia, MN (40 hours) | 3 Locations | https://usbank.wd1.myworkdayjobs.com/en-US/US_Bank_Careers/job/Virginia-MN/Client-Relationship-Consultant-3--Banker--Virginia--MN--40-hours-_2026-0021333 |
@@ -1267,7 +1268,7 @@
 | Wells Fargo | Posted Yesterday |  | Associate Account Resolution Representative - Credit Card Collections - Bilingual (Spanish/English | WEST DES MOINES, IA | https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/WEST-DES-MOINES-IA/Associate-Account-Resolution-Representative---Credit-Card-Collections---Bilingual--Spanish-English_R-561767 |
 | Wells Fargo | Posted Yesterday |  | Associate Personal Banker (SAFE) - Kalispell North | KALISPELL, MT | https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/KALISPELL-MT/Associate-Personal-Banker--SAFE----Kalispell-North_R-560896 |
 | Wells Fargo | Posted Yesterday |  | Branch Manager Boca Raton Delray Beach | 2 Locations | https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/BOCA-RATON-FL/Branch-Manager-Boca-Raton-Delray-Beach_R-561968 |
-| Wells Fargo | Posted Yesterday | NEW | Branch Manager Coastal Peaks | 3 Locations | https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/SALEM-OR/Branch-Manager-Coastal-Peaks_R-562041 |
+| Wells Fargo | Posted Yesterday |  | Branch Manager Coastal Peaks | 3 Locations | https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/SALEM-OR/Branch-Manager-Coastal-Peaks_R-562041 |
 | Wells Fargo | Posted Yesterday |  | Branch Manager North Metro Minneapolis | 11 Locations | https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/ANDOVER-MN/Branch-Manager-North-Metro-Minneapolis_R-558516 |
 | Wells Fargo | Posted Yesterday |  | Branch Manager North San Diego District | 8 Locations | https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/OCEANSIDE-CA/Branch-Manager-North-San-Diego-District_R-551764 |
 | Wells Fargo | Posted Yesterday |  | Branch Manager North Vegas Valley | 3 Locations | https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/LAS-VEGAS-NV/Branch-Manager-North-Vegas-Valley_R-562042 |
@@ -1405,7 +1406,6 @@
 | Wells Fargo | Posted Yesterday |  | Senior Market Risk Specialist- Data Sourcing and Data Management - Corporate and Investment Banking | CHARLOTTE, NC | https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/CHARLOTTE-NC/Senior-Market-Risk-Specialist--Data-Sourcing-and-Data-Management---Corporate-and-Investment-Banking_R-556954 |
 | Wells Fargo | Posted Yesterday |  | Senior Mid-Corporate Portfolio Manager | 2 Locations | https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/LOS-ANGELES-CA/Senior-Mid-Corporate-Portfolio-Manager_R-538887 |
 | Wells Fargo | Posted Yesterday |  | Senior Philanthropic Associate | PHILADELPHIA, PA | https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/PHILADELPHIA-PA/Senior-Philanthropic-Associate_R-561146 |
-| Wells Fargo | Posted Yesterday |  | Senior Premier Banker - Poway Twin Peaks Plaza | POWAY, CA | https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/POWAY-CA/Senior-Premier-Banker---Poway-Twin-Peaks-Plaza_R-561665 |
 | Wells Fargo | Posted Yesterday |  | Senior Premier Banker - Westchester | LOS ANGELES, CA | https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/LOS-ANGELES-CA/Senior-Premier-Banker---Westchester_R-554430 |
 | Wells Fargo | Posted Yesterday |  | Senior Premier Banker Anastasia Island | SAINT AUGUSTINE, FL | https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/SAINT-AUGUSTINE-FL/Senior-Premier-Banker-Anastasia-Island_R-553662 |
 | Wells Fargo | Posted Yesterday |  | Senior Premier Banker Austin Jollyville | AUSTIN, TX | https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/AUSTIN-TX/Senior-Premier-Banker-Austin-Jollyville_R-561856 |
