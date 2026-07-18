@@ -1,6 +1,6 @@
-# Priority: Today/Yesterday — 2026-07-18T11:06:30-04:00
+# Priority: Today/Yesterday — 2026-07-18T12:07:25-04:00
 
-1519 roles
+1521 roles
 
 | Company | Posted | New? | Role | Location | Link |
 |---|---|---|---|---|---|
@@ -9,9 +9,11 @@
 | Cigna / Evernorth | Posted Today |  | Pharmacy Technician (PACE) - Accredo - Remote, TN, IN, FL & PA | 7 Locations | https://cigna.wd5.myworkdayjobs.com/en-US/cignacareers/job/Nashville-TN/Pharmacy-Technician--PACE----Accredo---Remote--TN--IN--FL---PA_26005155 |
 | NVIDIA | Posted Today |  | Director, Software TPM - Server Firmware and System Software | US, CA, Santa Clara | https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Manager--Software-TPM---Server-Firmware-and-System-Software_JR2007277-1 |
 | NVIDIA | Posted Today |  | Principal Software Engineer – CSP Engagements | US, CA, Santa Clara | https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Principal-Software-Engineer---CSP-Engagements_JR1998405 |
+| NVIDIA | Posted Today | NEW | System Software Engineer, Calibration - Autonomous Vehicles | US, CA, Santa Clara | https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/System-Software-Engineer--Calibration---Autonomous-Vehicles_JR2014856 |
 | Thermo Fisher | Posted Today |  | Sr Applications Administrator | 2 Locations | https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Bangalore-India/Sr-Applications-Administrator_R-01358181 |
 | Vanguard | Posted Today |  | Extended Hours Client Representative | Malvern, PA | https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Malvern-PA/Extended-Hours-Client-Representative_180685 |
-| Wells Fargo | Posted Today | NEW | Senior Counsel – Mutual & Private Fund Distribution (Wealth & Investment Management) | 5 Locations | https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/CHARLOTTE-NC/Senior-Counsel---Mutual---Private-Fund-Distribution--Wealth---Investment-Management-_R-555380 |
+| Wells Fargo | Posted Today |  | Senior Counsel – Mutual & Private Fund Distribution (Wealth & Investment Management) | 5 Locations | https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/CHARLOTTE-NC/Senior-Counsel---Mutual---Private-Fund-Distribution--Wealth---Investment-Management-_R-555380 |
+| Wells Fargo | Posted Today | NEW | Teller Rancho Bernardo | SAN DIEGO, CA | https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/SAN-DIEGO-CA/Teller-Rancho-Bernardo_R-557921-1 |
 | ASML | Posted Yesterday |  | Field Service Engineer | Baltimore, MD, USA | https://asml.wd3.myworkdayjobs.com/en-US/ASMLEXT1/job/Baltimore-MD-USA/Field-Service-Engineer_J-00345804-1 |
 | ASML | Posted Yesterday |  | Management Assistant | San Diego, CA, USA | https://asml.wd3.myworkdayjobs.com/en-US/ASMLEXT1/job/San-Diego-CA-USA/Management-Assistant_J-00340869 |
 | ASML | Posted Yesterday |  | NXE Production Engineering Manager | Wilton, CT, USA | https://asml.wd3.myworkdayjobs.com/en-US/ASMLEXT1/job/Wilton-CT-USA/NXE-Production-Engineering-Sr-GL_J-00338246-1 |
