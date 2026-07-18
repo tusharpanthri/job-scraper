@@ -1,6 +1,6 @@
-# Priority: Today/Yesterday — 2026-07-18T17:59:51-04:00
+# Priority: Today/Yesterday — 2026-07-18T19:01:50-04:00
 
-1530 roles
+1529 roles
 
 | Company | Posted | New? | Role | Location | Link |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | NVIDIA | Posted Today |  | Principal Software Engineer – CSP Engagements | US, CA, Santa Clara | https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Principal-Software-Engineer---CSP-Engagements_JR1998405 |
 | NVIDIA | Posted Today |  | System Software Engineer, Calibration - Autonomous Vehicles | US, CA, Santa Clara | https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/System-Software-Engineer--Calibration---Autonomous-Vehicles_JR2014856 |
 | Thermo Fisher | Posted Today |  | Sr Applications Administrator | 2 Locations | https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Bangalore-India/Sr-Applications-Administrator_R-01358181 |
-| USAA | Posted Today | NEW | AVP, Senior Financial Officer | Charlotte Metro, NC Home | https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/Charlotte-Metro-NC-Home/AVP--Senior-Financial-Officer_R0119075 |
+| USAA | Posted Today |  | AVP, Senior Financial Officer | Charlotte Metro, NC Home | https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/Charlotte-Metro-NC-Home/AVP--Senior-Financial-Officer_R0119075 |
 | Vanguard | Posted Today |  | Extended Hours Client Representative | Malvern, PA | https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Malvern-PA/Extended-Hours-Client-Representative_180685 |
 | Wells Fargo | Posted Today |  | Senior Counsel – Mutual & Private Fund Distribution (Wealth & Investment Management) | 5 Locations | https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/CHARLOTTE-NC/Senior-Counsel---Mutual---Private-Fund-Distribution--Wealth---Investment-Management-_R-555380 |
 | Wells Fargo | Posted Today |  | Teller 22nd Ave And Happy Valley Rd | PHOENIX, AZ | https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/PHOENIX-AZ/Teller-22nd-Ave-And-Happy-Valley-Rd_R-558792 |
@@ -1227,7 +1227,6 @@
 | University of Washington | Posted Yesterday |  | Perinatal Nurse Educator, UW Medical Center, Perinatal Services | Seattle, WA | https://uw.wd5.myworkdayjobs.com/en-US/UWHires/job/Seattle-WA/Perinatal-Nurse-Educator--UW-Medical-Center--Perinatal-Services_REQ-0000131454 |
 | University of Washington | Posted Yesterday |  | Program Manager for Leadership Education | Seattle, WA | https://uw.wd5.myworkdayjobs.com/en-US/UWHires/job/Seattle-WA/Program-Manager-for-Leadership-Education_REQ-0000134865 |
 | University of Washington | Posted Yesterday |  | Program Operations Specialist, Lab Medicine & Pathology Graduate Medical Education Program | Seattle, WA | https://uw.wd5.myworkdayjobs.com/en-US/UWHires/job/Seattle-WA/Program-Operations-Specialist--Lab-Medicine---Pathology-Graduate-Medical-Education-Program_REQ-0000135063 |
-| University of Washington | Posted Yesterday |  | RN / Registered Nurse - Harborview - Trauma/Rehab Medicine Unit (90% FTE, Night Shift) | Seattle, WA | https://uw.wd5.myworkdayjobs.com/en-US/UWHires/job/Seattle-WA/RN---Registered-Nurse---Harborview---Trauma-Rehab-Medicine-Unit--90--FTE--Night-Shift-_REQ-0000134720-1 |
 | University of Washington | Posted Yesterday |  | RN / Registered Nurse UW Medical Center Montlake Periop 101 Program September 2026 | Seattle, WA | https://uw.wd5.myworkdayjobs.com/en-US/UWHires/job/Seattle-WA/RN---Registered-Nurse-UW-Medical-Center-Montlake-Periop-101-Program-September-2026_REQ-0000135098 |
 | University of Washington | Posted Yesterday |  | Research Manager | Seattle, WA | https://uw.wd5.myworkdayjobs.com/en-US/UWHires/job/Seattle-WA/Research-Manager_REQ-0000134948 |
 | University of Washington | Posted Yesterday |  | Research Study Coordinator (Temporary) | Seattle, WA | https://uw.wd5.myworkdayjobs.com/en-US/UWHires/job/Seattle-WA/Research-Study-Coordinator--Temporary-_REQ-0000131633 |
