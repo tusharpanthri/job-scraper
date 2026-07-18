@@ -1,12 +1,12 @@
-# Priority: Today/Yesterday — 2026-07-18T14:02:16-04:00
+# Priority: Today/Yesterday — 2026-07-18T15:18:33-04:00
 
 1525 roles
 
 | Company | Posted | New? | Role | Location | Link |
 |---|---|---|---|---|---|
-| Bristol Myers Squibb | Posted Today | NEW | Group Leader, Parenteral Manufacturing | Manati - PR - US | https://bristolmyerssquibb.wd5.myworkdayjobs.com/en-US/BMS/job/Manati---PR---US/Group-Leader--Parenteral-Manufacturing_R1604149-1 |
-| Bristol Myers Squibb | Posted Today | NEW | Inspection & Packaging Operator I | Manati - PR - US | https://bristolmyerssquibb.wd5.myworkdayjobs.com/en-US/BMS/job/Manati---PR---US/Inspection---Packaging-Operator-I_R1603337-1 |
-| Capital One | Posted Today | NEW | Lead Software Engineer, Full Stack | 3 Locations | https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Plano-TX/Lead-Software-Engineer--Full-Stack_R244115-3 |
+| Bristol Myers Squibb | Posted Today |  | Group Leader, Parenteral Manufacturing | Manati - PR - US | https://bristolmyerssquibb.wd5.myworkdayjobs.com/en-US/BMS/job/Manati---PR---US/Group-Leader--Parenteral-Manufacturing_R1604149-1 |
+| Bristol Myers Squibb | Posted Today |  | Inspection & Packaging Operator I | Manati - PR - US | https://bristolmyerssquibb.wd5.myworkdayjobs.com/en-US/BMS/job/Manati---PR---US/Inspection---Packaging-Operator-I_R1603337-1 |
+| Capital One | Posted Today |  | Lead Software Engineer, Full Stack | 3 Locations | https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Plano-TX/Lead-Software-Engineer--Full-Stack_R244115-3 |
 | Cigna / Evernorth | Posted Today |  | Data Measurement & Reporting Advisor - Evernorth - Remote | 6 Locations | https://cigna.wd5.myworkdayjobs.com/en-US/cignacareers/job/United-States-Work-at-Home/Data-Measurement---Reporting-Advisor---Evernorth---Remote_26006449 |
 | Cigna / Evernorth | Posted Today |  | Pharmacy Operations Lead Representative- Express Scripts | St. Louis, MO | https://cigna.wd5.myworkdayjobs.com/en-US/cignacareers/job/St-Louis-MO/Pharmacy-Operations-Lead-Representative--Express-Scripts_26008486 |
 | Cigna / Evernorth | Posted Today |  | Pharmacy Technician (PACE) - Accredo - Remote, TN, IN, FL & PA | 7 Locations | https://cigna.wd5.myworkdayjobs.com/en-US/cignacareers/job/Nashville-TN/Pharmacy-Technician--PACE----Accredo---Remote--TN--IN--FL---PA_26005155 |
