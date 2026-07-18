@@ -1,2 +1,1 @@
-{"company": "Walmart", "endpoint": "https://walmart.wd504.myworkdayjobs.com/wday/cxs/walmart/walmartexternal/jobs", "offset": 0, "error": "Walmart: BAD_JSON @ offset=0"}
 {"company": "Charles Schwab", "endpoint": "https://schwab.wd1.myworkdayjobs.com/wday/cxs/schwab/External/jobs", "offset": 0, "status": 422, "error": "422 Client Error: Unprocessable Entity for url: https://schwab.wd1.myworkdayjobs.com/wday/cxs/schwab/External/jobs"}
