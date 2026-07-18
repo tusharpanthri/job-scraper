@@ -1,12 +1,14 @@
-# Priority: Today/Yesterday — 2026-07-18T08:01:53-04:00
+# Priority: Today/Yesterday — 2026-07-18T09:41:43-04:00
 
-1510 roles
+1513 roles
 
 | Company | Posted | New? | Role | Location | Link |
 |---|---|---|---|---|---|
 | Cigna / Evernorth | Posted Today |  | Data Measurement & Reporting Advisor - Evernorth - Remote | 6 Locations | https://cigna.wd5.myworkdayjobs.com/en-US/cignacareers/job/United-States-Work-at-Home/Data-Measurement---Reporting-Advisor---Evernorth---Remote_26006449 |
+| Cigna / Evernorth | Posted Today | NEW | Pharmacy Operations Lead Representative- Express Scripts | St. Louis, MO | https://cigna.wd5.myworkdayjobs.com/en-US/cignacareers/job/St-Louis-MO/Pharmacy-Operations-Lead-Representative--Express-Scripts_26008486 |
+| Cigna / Evernorth | Posted Today |  | Pharmacy Technician (PACE) - Accredo - Remote, TN, IN, FL & PA | 7 Locations | https://cigna.wd5.myworkdayjobs.com/en-US/cignacareers/job/Nashville-TN/Pharmacy-Technician--PACE----Accredo---Remote--TN--IN--FL---PA_26005155 |
 | Thermo Fisher | Posted Today |  | Sr Applications Administrator | 2 Locations | https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Bangalore-India/Sr-Applications-Administrator_R-01358181 |
-| Vanguard | Posted Today | NEW | Extended Hours Client Representative | Malvern, PA | https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Malvern-PA/Extended-Hours-Client-Representative_180685 |
+| Vanguard | Posted Today |  | Extended Hours Client Representative | Malvern, PA | https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Malvern-PA/Extended-Hours-Client-Representative_180685 |
 | ASML | Posted Yesterday |  | Field Service Engineer | Baltimore, MD, USA | https://asml.wd3.myworkdayjobs.com/en-US/ASMLEXT1/job/Baltimore-MD-USA/Field-Service-Engineer_J-00345804-1 |
 | ASML | Posted Yesterday |  | Management Assistant | San Diego, CA, USA | https://asml.wd3.myworkdayjobs.com/en-US/ASMLEXT1/job/San-Diego-CA-USA/Management-Assistant_J-00340869 |
 | ASML | Posted Yesterday |  | NXE Production Engineering Manager | Wilton, CT, USA | https://asml.wd3.myworkdayjobs.com/en-US/ASMLEXT1/job/Wilton-CT-USA/NXE-Production-Engineering-Sr-GL_J-00338246-1 |
@@ -1406,6 +1408,7 @@
 | Wells Fargo | Posted Yesterday |  | Senior Market Risk Specialist- Data Sourcing and Data Management - Corporate and Investment Banking | CHARLOTTE, NC | https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/CHARLOTTE-NC/Senior-Market-Risk-Specialist--Data-Sourcing-and-Data-Management---Corporate-and-Investment-Banking_R-556954 |
 | Wells Fargo | Posted Yesterday |  | Senior Mid-Corporate Portfolio Manager | 2 Locations | https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/LOS-ANGELES-CA/Senior-Mid-Corporate-Portfolio-Manager_R-538887 |
 | Wells Fargo | Posted Yesterday |  | Senior Philanthropic Associate | PHILADELPHIA, PA | https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/PHILADELPHIA-PA/Senior-Philanthropic-Associate_R-561146 |
+| Wells Fargo | Posted Yesterday |  | Senior Premier Banker - Poway Twin Peaks Plaza | POWAY, CA | https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/POWAY-CA/Senior-Premier-Banker---Poway-Twin-Peaks-Plaza_R-561665 |
 | Wells Fargo | Posted Yesterday |  | Senior Premier Banker - Westchester | LOS ANGELES, CA | https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/LOS-ANGELES-CA/Senior-Premier-Banker---Westchester_R-554430 |
 | Wells Fargo | Posted Yesterday |  | Senior Premier Banker Anastasia Island | SAINT AUGUSTINE, FL | https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/SAINT-AUGUSTINE-FL/Senior-Premier-Banker-Anastasia-Island_R-553662 |
 | Wells Fargo | Posted Yesterday |  | Senior Premier Banker Austin Jollyville | AUSTIN, TX | https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/AUSTIN-TX/Senior-Premier-Banker-Austin-Jollyville_R-561856 |
