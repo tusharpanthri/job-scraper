@@ -1,6 +1,6 @@
-# Priority: Today/Yesterday — 2026-07-18T17:02:12-04:00
+# Priority: Today/Yesterday — 2026-07-18T17:59:51-04:00
 
-1529 roles
+1530 roles
 
 | Company | Posted | New? | Role | Location | Link |
 |---|---|---|---|---|---|
@@ -10,13 +10,14 @@
 | Cigna / Evernorth | Posted Today |  | Data Measurement & Reporting Advisor - Evernorth - Remote | 6 Locations | https://cigna.wd5.myworkdayjobs.com/en-US/cignacareers/job/United-States-Work-at-Home/Data-Measurement---Reporting-Advisor---Evernorth---Remote_26006449 |
 | Cigna / Evernorth | Posted Today |  | Pharmacy Operations Lead Representative- Express Scripts | St. Louis, MO | https://cigna.wd5.myworkdayjobs.com/en-US/cignacareers/job/St-Louis-MO/Pharmacy-Operations-Lead-Representative--Express-Scripts_26008486 |
 | Cigna / Evernorth | Posted Today |  | Pharmacy Technician (PACE) - Accredo - Remote, TN, IN, FL & PA | 7 Locations | https://cigna.wd5.myworkdayjobs.com/en-US/cignacareers/job/Nashville-TN/Pharmacy-Technician--PACE----Accredo---Remote--TN--IN--FL---PA_26005155 |
-| Elevance Health | Posted Today | NEW | Manager I GBD Special Programs | 2 Locations | https://elevancehealth.wd1.myworkdayjobs.com/en-US/ANT/job/NC-WINSTON-SALEM-5650-UNIVERSITY-PKWY/Manager-I-GBD-Special-Programs_JR194864 |
-| Elevance Health | Posted Today | NEW | Manager I GBD Special Programs | 2 Locations | https://elevancehealth.wd1.myworkdayjobs.com/en-US/ANT/job/NC-DURHAM-1960-IVY-CREEK-BLVD-2ND-FL/Manager-I-GBD-Special-Programs_JR194852 |
+| Elevance Health | Posted Today |  | Manager I GBD Special Programs | 2 Locations | https://elevancehealth.wd1.myworkdayjobs.com/en-US/ANT/job/NC-WINSTON-SALEM-5650-UNIVERSITY-PKWY/Manager-I-GBD-Special-Programs_JR194864 |
+| Elevance Health | Posted Today |  | Manager I GBD Special Programs | 2 Locations | https://elevancehealth.wd1.myworkdayjobs.com/en-US/ANT/job/NC-DURHAM-1960-IVY-CREEK-BLVD-2ND-FL/Manager-I-GBD-Special-Programs_JR194852 |
 | Micron | Posted Today |  | Probe Card Engineer | Boise, ID - Main Site | https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Probe-Card-Engineer_JR105216 |
 | NVIDIA | Posted Today |  | Director, Software TPM - Server Firmware and System Software | US, CA, Santa Clara | https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Manager--Software-TPM---Server-Firmware-and-System-Software_JR2007277-1 |
 | NVIDIA | Posted Today |  | Principal Software Engineer – CSP Engagements | US, CA, Santa Clara | https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Principal-Software-Engineer---CSP-Engagements_JR1998405 |
 | NVIDIA | Posted Today |  | System Software Engineer, Calibration - Autonomous Vehicles | US, CA, Santa Clara | https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/System-Software-Engineer--Calibration---Autonomous-Vehicles_JR2014856 |
 | Thermo Fisher | Posted Today |  | Sr Applications Administrator | 2 Locations | https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Bangalore-India/Sr-Applications-Administrator_R-01358181 |
+| USAA | Posted Today | NEW | AVP, Senior Financial Officer | Charlotte Metro, NC Home | https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/Charlotte-Metro-NC-Home/AVP--Senior-Financial-Officer_R0119075 |
 | Vanguard | Posted Today |  | Extended Hours Client Representative | Malvern, PA | https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Malvern-PA/Extended-Hours-Client-Representative_180685 |
 | Wells Fargo | Posted Today |  | Senior Counsel – Mutual & Private Fund Distribution (Wealth & Investment Management) | 5 Locations | https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/CHARLOTTE-NC/Senior-Counsel---Mutual---Private-Fund-Distribution--Wealth---Investment-Management-_R-555380 |
 | Wells Fargo | Posted Today |  | Teller 22nd Ave And Happy Valley Rd | PHOENIX, AZ | https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/PHOENIX-AZ/Teller-22nd-Ave-And-Happy-Valley-Rd_R-558792 |
