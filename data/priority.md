@@ -1,6 +1,6 @@
-# Priority: Today/Yesterday — 2026-07-19T07:18:05-04:00
+# Priority: Today/Yesterday — 2026-07-19T09:45:33-04:00
 
-59 roles
+62 roles
 
 | Company | Posted | New? | Role | Location | Link |
 |---|---|---|---|---|---|
@@ -9,8 +9,11 @@
 | NVIDIA | Posted Today |  | SOC Clock Distribution Engineer | 2 Locations | https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/SOC-Clock-Distribution-Engineer_JR2019203 |
 | NVIDIA | Posted Today |  | Senior Chip Design Hardware Emulation Engineer | 2 Locations | https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Senior-Chip-Design-Hardware-Emulation-Engineer_JR2011419-1 |
 | NVIDIA | Posted Today |  | Senior Chip Design Verification Engineer | 2 Locations | https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-Chip-Design-Verification-Engineer_JR2016427 |
+| NVIDIA | Posted Today |  | Senior Full-Stack Software Engineer, Storage Management Platform - DGX Cloud | 2 Locations | https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--Kubernetes-and-Virtualization---DGX-Cloud_JR2007944 |
 | NVIDIA | Posted Today |  | Senior VLSI Integration Engineer | 4 Locations | https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Senior-VLSI-Integration-Engineer_JR1989467 |
 | NVIDIA | Posted Today |  | SoC Clocks Design Automation Engineer | 3 Locations | https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/SoC-Clocks-Design-Automation-Engineer_JR2009388 |
+| PwC Campus | Posted Today | NEW | PwC Intern Programme - Assurance - Audit (Wellington) | 2 Locations | https://pwc.wd3.myworkdayjobs.com/en-US/Global_Campus_Careers/job/Auckland---NZL/PwC-Intern-and-Graduate-Programme---Assurance---Audit--Auckland--Wellington--Christchurch--Hamilton---Napier-_703616WD-1 |
+| Salesforce | Posted Today | NEW | Operations Manager | 17 Locations | https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Virginia---Mclean/Operations-Manager_JR351126 |
 | Thermo Fisher | Posted Today |  | Cartridge Operator - Third Shift | Meriden, Connecticut, USA | https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Meriden-Connecticut-USA/Cartridge-Operator---Third-Shift_R-01359240 |
 | Thermo Fisher | Posted Today |  | Cartridge Operator - Third Shift | Meriden, Connecticut, USA | https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Meriden-Connecticut-USA/Cartridge-Operator---Third-Shift_R-01360879 |
 | Wells Fargo | Posted Today |  | Personal Banker Pasadena Branch | SAN GABRIEL, CA | https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/SAN-GABRIEL-CA/Personal-Banker-Pasadena-Branch_R-558350 |
