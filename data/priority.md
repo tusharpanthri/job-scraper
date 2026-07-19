@@ -1,12 +1,12 @@
-# Priority: Today/Yesterday — 2026-07-19T12:07:20-04:00
+# Priority: Today/Yesterday — 2026-07-19T13:12:45-04:00
 
-72 roles
+71 roles
 
 | Company | Posted | New? | Role | Location | Link |
 |---|---|---|---|---|---|
 | Capital One | Posted Today |  | Senior Associate, Product Manager-Small Business Bank | 3 Locations | https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/New-York-NY/Senior-Associate--Product-Manager-Money-Movement_R246421 |
 | General Motors | Posted Today |  | Platform Activation Lead | Warren, Michigan, United States of America | https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/Platform-Activation-Lead_JR-202612814 |
-| Medtronic | Posted Today | NEW | Principal Advanced Analytics Analyst | 4 Locations | https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Minneapolis-Minnesota-United-States-of-America/Principal-Advanced-Analytics-Analyst_R69615-1 |
+| Medtronic | Posted Today |  | Principal Advanced Analytics Analyst | 4 Locations | https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Minneapolis-Minnesota-United-States-of-America/Principal-Advanced-Analytics-Analyst_R69615-1 |
 | NVIDIA | Posted Today |  | Chip Design Verification Engineer | 2 Locations | https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Yokneam/Chip-Design-Verification-Engineer_JR2020119 |
 | NVIDIA | Posted Today |  | Firmware Engineer - NVLink | 2 Locations | https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Firmware-Engineer---NVLink_JR2016524 |
 | NVIDIA | Posted Today |  | SOC Clock Distribution Engineer | 2 Locations | https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/SOC-Clock-Distribution-Engineer_JR2019203 |
@@ -75,4 +75,3 @@
 | Wells Fargo | Posted Yesterday |  | Senior Counsel – Mutual & Private Fund Distribution (Wealth & Investment Management) | 5 Locations | https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/CHARLOTTE-NC/Senior-Counsel---Mutual---Private-Fund-Distribution--Wealth---Investment-Management-_R-555380 |
 | Wells Fargo | Posted Yesterday |  | Teller 22nd Ave And Happy Valley Rd | PHOENIX, AZ | https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/PHOENIX-AZ/Teller-22nd-Ave-And-Happy-Valley-Rd_R-558792 |
 | Wells Fargo | Posted Yesterday |  | Teller Part Time 290 And Spring Cypress | CYPRESS, TX | https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/CYPRESS-TX/Teller-Part-Time-290-And-Spring-Cypress_R-560844 |
-| Wells Fargo | Posted Yesterday |  | Teller Rancho Bernardo | SAN DIEGO, CA | https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/SAN-DIEGO-CA/Teller-Rancho-Bernardo_R-557921-1 |
