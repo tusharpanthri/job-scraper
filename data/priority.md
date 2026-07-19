@@ -1,15 +1,15 @@
-# Priority: Today/Yesterday — 2026-07-19T05:11:07-04:00
+# Priority: Today/Yesterday — 2026-07-19T07:18:05-04:00
 
 59 roles
 
 | Company | Posted | New? | Role | Location | Link |
 |---|---|---|---|---|---|
-| NVIDIA | Posted Today | NEW | Chip Design Verification Engineer | 2 Locations | https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Yokneam/Chip-Design-Verification-Engineer_JR2020119 |
-| NVIDIA | Posted Today | NEW | Firmware Engineer - NVLink | 2 Locations | https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Firmware-Engineer---NVLink_JR2016524 |
+| NVIDIA | Posted Today |  | Chip Design Verification Engineer | 2 Locations | https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Yokneam/Chip-Design-Verification-Engineer_JR2020119 |
+| NVIDIA | Posted Today |  | Firmware Engineer - NVLink | 2 Locations | https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Firmware-Engineer---NVLink_JR2016524 |
 | NVIDIA | Posted Today |  | SOC Clock Distribution Engineer | 2 Locations | https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/SOC-Clock-Distribution-Engineer_JR2019203 |
-| NVIDIA | Posted Today | NEW | Senior Chip Design Hardware Emulation Engineer | 2 Locations | https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Senior-Chip-Design-Hardware-Emulation-Engineer_JR2011419-1 |
-| NVIDIA | Posted Today | NEW | Senior Chip Design Verification Engineer | 2 Locations | https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-Chip-Design-Verification-Engineer_JR2016427 |
-| NVIDIA | Posted Today | NEW | Senior VLSI Integration Engineer | 4 Locations | https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Senior-VLSI-Integration-Engineer_JR1989467 |
+| NVIDIA | Posted Today |  | Senior Chip Design Hardware Emulation Engineer | 2 Locations | https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Senior-Chip-Design-Hardware-Emulation-Engineer_JR2011419-1 |
+| NVIDIA | Posted Today |  | Senior Chip Design Verification Engineer | 2 Locations | https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-Chip-Design-Verification-Engineer_JR2016427 |
+| NVIDIA | Posted Today |  | Senior VLSI Integration Engineer | 4 Locations | https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Senior-VLSI-Integration-Engineer_JR1989467 |
 | NVIDIA | Posted Today |  | SoC Clocks Design Automation Engineer | 3 Locations | https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/SoC-Clocks-Design-Automation-Engineer_JR2009388 |
 | Thermo Fisher | Posted Today |  | Cartridge Operator - Third Shift | Meriden, Connecticut, USA | https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Meriden-Connecticut-USA/Cartridge-Operator---Third-Shift_R-01359240 |
 | Thermo Fisher | Posted Today |  | Cartridge Operator - Third Shift | Meriden, Connecticut, USA | https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Meriden-Connecticut-USA/Cartridge-Operator---Third-Shift_R-01360879 |
