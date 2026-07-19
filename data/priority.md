@@ -1,12 +1,14 @@
-# Priority: Today/Yesterday — 2026-07-19T13:12:45-04:00
+# Priority: Today/Yesterday — 2026-07-19T15:20:00-04:00
 
-71 roles
+75 roles
 
 | Company | Posted | New? | Role | Location | Link |
 |---|---|---|---|---|---|
 | Capital One | Posted Today |  | Senior Associate, Product Manager-Small Business Bank | 3 Locations | https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/New-York-NY/Senior-Associate--Product-Manager-Money-Movement_R246421 |
+| Elevance Health | Posted Today |  | M&A Analyst Senior | 4 Locations | https://elevancehealth.wd1.myworkdayjobs.com/en-US/ANT/job/IN-INDIANAPOLIS-220-VIRGINIA-AVE/M-A-Analyst-Senior_JR192636 |
 | General Motors | Posted Today |  | Platform Activation Lead | Warren, Michigan, United States of America | https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/Platform-Activation-Lead_JR-202612814 |
 | Medtronic | Posted Today |  | Principal Advanced Analytics Analyst | 4 Locations | https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Minneapolis-Minnesota-United-States-of-America/Principal-Advanced-Analytics-Analyst_R69615-1 |
+| Medtronic | Posted Today | NEW | Principal Financial Analyst | Minneapolis, Minnesota, United States of America | https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Minneapolis-Minnesota-United-States-of-America/Principal-Financial-Analyst_R72109 |
 | NVIDIA | Posted Today |  | Chip Design Verification Engineer | 2 Locations | https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Yokneam/Chip-Design-Verification-Engineer_JR2020119 |
 | NVIDIA | Posted Today |  | Firmware Engineer - NVLink | 2 Locations | https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Firmware-Engineer---NVLink_JR2016524 |
 | NVIDIA | Posted Today |  | SOC Clock Distribution Engineer | 2 Locations | https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/SOC-Clock-Distribution-Engineer_JR2019203 |
@@ -23,7 +25,9 @@
 | Thermo Fisher | Posted Today |  | Operator I APR 2nd shift | Lenexa, Kansas, USA | https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Lenexa-Kansas-USA/Operator-I-APR-2nd-shift_R-01360572 |
 | Thermo Fisher | Posted Today |  | Operator I, Manufacturing | Lenexa, Kansas, USA | https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Lenexa-Kansas-USA/Operator-I--Manufacturing_R-01358945 |
 | Thermo Fisher | Posted Today |  | Operator I, Manufacturing - Packer - Plates | Lenexa, Kansas, USA | https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Lenexa-Kansas-USA/Operator-I--Manufacturing_R-01359999 |
+| Thermo Fisher | Posted Today |  | Operator II APR 2nd shift | Lenexa, Kansas, USA | https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Lenexa-Kansas-USA/Operator-II-APR-2nd-shift_R-01360573 |
 | Thermo Fisher | Posted Today |  | Operator II APR 2nd shift | Lenexa, Kansas, USA | https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Lenexa-Kansas-USA/Operator-II-APR-2nd-shift_R-01360571-1 |
+| Thermo Fisher | Posted Today |  | Operator II, Manufacturing | Lenexa, Kansas, USA | https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Lenexa-Kansas-USA/Operator-II--Manufacturing_R-01360575 |
 | Thermo Fisher | Posted Today |  | Operator II, Manufacturing | Lenexa, Kansas, USA | https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Lenexa-Kansas-USA/Operator-II--Manufacturing_R-01360569 |
 | Thermo Fisher | Posted Today |  | Operator II, Manufacturing - Quality Control Organisms | Lenexa, Kansas, USA | https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Lenexa-Kansas-USA/Operator-II--Manufacturing---Quality-Control-Organisms_R-01360000 |
 | Wells Fargo | Posted Today |  | Personal Banker Pasadena Branch | SAN GABRIEL, CA | https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/SAN-GABRIEL-CA/Personal-Banker-Pasadena-Branch_R-558350 |
