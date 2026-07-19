@@ -1,9 +1,11 @@
-# Priority: Today/Yesterday — 2026-07-19T09:45:33-04:00
+# Priority: Today/Yesterday — 2026-07-19T11:06:39-04:00
 
-62 roles
+66 roles
 
 | Company | Posted | New? | Role | Location | Link |
 |---|---|---|---|---|---|
+| Capital One | Posted Today |  | Senior Associate, Product Manager-Small Business Bank | 3 Locations | https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/New-York-NY/Senior-Associate--Product-Manager-Money-Movement_R246421 |
+| General Motors | Posted Today |  | Platform Activation Lead | Warren, Michigan, United States of America | https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/Platform-Activation-Lead_JR-202612814 |
 | NVIDIA | Posted Today |  | Chip Design Verification Engineer | 2 Locations | https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Yokneam/Chip-Design-Verification-Engineer_JR2020119 |
 | NVIDIA | Posted Today |  | Firmware Engineer - NVLink | 2 Locations | https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Firmware-Engineer---NVLink_JR2016524 |
 | NVIDIA | Posted Today |  | SOC Clock Distribution Engineer | 2 Locations | https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/SOC-Clock-Distribution-Engineer_JR2019203 |
@@ -12,10 +14,12 @@
 | NVIDIA | Posted Today |  | Senior Full-Stack Software Engineer, Storage Management Platform - DGX Cloud | 2 Locations | https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--Kubernetes-and-Virtualization---DGX-Cloud_JR2007944 |
 | NVIDIA | Posted Today |  | Senior VLSI Integration Engineer | 4 Locations | https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Senior-VLSI-Integration-Engineer_JR1989467 |
 | NVIDIA | Posted Today |  | SoC Clocks Design Automation Engineer | 3 Locations | https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/SoC-Clocks-Design-Automation-Engineer_JR2009388 |
-| PwC Campus | Posted Today | NEW | PwC Intern Programme - Assurance - Audit (Wellington) | 2 Locations | https://pwc.wd3.myworkdayjobs.com/en-US/Global_Campus_Careers/job/Auckland---NZL/PwC-Intern-and-Graduate-Programme---Assurance---Audit--Auckland--Wellington--Christchurch--Hamilton---Napier-_703616WD-1 |
-| Salesforce | Posted Today | NEW | Operations Manager | 17 Locations | https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Virginia---Mclean/Operations-Manager_JR351126 |
+| PwC Campus | Posted Today |  | PwC Intern Programme - Assurance - Audit (Wellington) | 2 Locations | https://pwc.wd3.myworkdayjobs.com/en-US/Global_Campus_Careers/job/Auckland---NZL/PwC-Intern-and-Graduate-Programme---Assurance---Audit--Auckland--Wellington--Christchurch--Hamilton---Napier-_703616WD-1 |
+| Salesforce | Posted Today |  | Operations Manager | 17 Locations | https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Virginia---Mclean/Operations-Manager_JR351126 |
 | Thermo Fisher | Posted Today |  | Cartridge Operator - Third Shift | Meriden, Connecticut, USA | https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Meriden-Connecticut-USA/Cartridge-Operator---Third-Shift_R-01359240 |
 | Thermo Fisher | Posted Today |  | Cartridge Operator - Third Shift | Meriden, Connecticut, USA | https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Meriden-Connecticut-USA/Cartridge-Operator---Third-Shift_R-01360879 |
+| Thermo Fisher | Posted Today | NEW | Lead Operator Manufacturing | Lenexa, Kansas, USA | https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Lenexa-Kansas-USA/Lead-Operator-Manufacturing_R-01358955-1 |
+| Thermo Fisher | Posted Today |  | Operator I, Manufacturing | Lenexa, Kansas, USA | https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Lenexa-Kansas-USA/Operator-I--Manufacturing_R-01358945 |
 | Wells Fargo | Posted Today |  | Personal Banker Pasadena Branch | SAN GABRIEL, CA | https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/SAN-GABRIEL-CA/Personal-Banker-Pasadena-Branch_R-558350 |
 | Wells Fargo | Posted Today |  | Senior Commercial Loan Closing Specialist | 2 Locations | https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/CHARLOTTE-NC/Senior-Commercial-Loan-Closing-Specialist_R-550688 |
 | Bristol Myers Squibb | Posted Yesterday |  | Group Leader, Parenteral Manufacturing | Manati - PR - US | https://bristolmyerssquibb.wd5.myworkdayjobs.com/en-US/BMS/job/Manati---PR---US/Group-Leader--Parenteral-Manufacturing_R1604149-1 |
