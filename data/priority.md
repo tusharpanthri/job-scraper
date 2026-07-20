@@ -1,6 +1,6 @@
-# Priority: Today/Yesterday — 2026-07-19T19:03:41-04:00
+# Priority: Today/Yesterday — 2026-07-19T20:06:53-04:00
 
-90 roles
+91 roles
 
 | Company | Posted | New? | Role | Location | Link |
 |---|---|---|---|---|---|
@@ -10,6 +10,7 @@
 | Bank of America | Posted Today |  | Relationship Banker - Manhattan Central NY Area *Bilingual Spanish required | 6 Locations | https://ghr.wd1.myworkdayjobs.com/en-US/Lateral-US/job/New-York/Relationship-Banker---Manhattan-Central-NY-Area--Bilingual-Spanish-required_26018614 |
 | Bank of America | Posted Today |  | Relationship Banker - South Manhattan NY Area | 6 Locations | https://ghr.wd1.myworkdayjobs.com/en-US/Lateral-US/job/New-York/Relationship-Banker---South-Manhattan-NY-Area_26015672 |
 | Bank of America | Posted Today |  | Relationship Banker - West Manhattan NY Area | 11 Locations | https://ghr.wd1.myworkdayjobs.com/en-US/Lateral-US/job/New-York/Relationship-Banker---West-Manhattan-NY-Area_26024917-1 |
+| Capital One | Posted Today | NEW | Manager, Content Design | 3 Locations | https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Richmond-VA/Manager--Content-Design_R247301-1 |
 | Capital One | Posted Today |  | Senior Associate, Product Manager-Small Business Bank | 3 Locations | https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/New-York-NY/Senior-Associate--Product-Manager-Money-Movement_R246421 |
 | CenterWell | Posted Today |  | Nurse Practitioner or Physician Assistant | Orange Park, FL | https://humana.wd5.myworkdayjobs.com/en-US/CenterWell_External_Career_Site/job/Orange-Park-FL/Nurse-Practitioner-or-Physician-Assistant_R-423333 |
 | Elevance Health | Posted Today |  | M&A Analyst Senior | 4 Locations | https://elevancehealth.wd1.myworkdayjobs.com/en-US/ANT/job/IN-INDIANAPOLIS-220-VIRGINIA-AVE/M-A-Analyst-Senior_JR192636 |
@@ -28,7 +29,7 @@
 | NVIDIA | Posted Today |  | Senior VLSI Integration Engineer | 4 Locations | https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Senior-VLSI-Integration-Engineer_JR1989467 |
 | NVIDIA | Posted Today |  | SoC Clocks Design Automation Engineer | 3 Locations | https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/SoC-Clocks-Design-Automation-Engineer_JR2009388 |
 | PayPal | Posted Today |  | Vice President, Head of Brand & Marketing Strategy | 2 Locations | https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/New-York-City-New-York-United-States-of-America/Vice-President--Head-of-Brand---Marketing-Strategy_R0136933-1 |
-| PwC Campus | Posted Today |  | PwC Intern Programme - Assurance - Audit (Wellington) | 2 Locations | https://pwc.wd3.myworkdayjobs.com/en-US/Global_Campus_Careers/job/Auckland---NZL/PwC-Intern-and-Graduate-Programme---Assurance---Audit--Auckland--Wellington--Christchurch--Hamilton---Napier-_703616WD-1 |
+| PwC Campus | Posted Today | NEW | PwC Intern Programme - Assurance - Audit (Wellington) | 2 Locations | https://pwc.wd3.myworkdayjobs.com/en-US/Global_Campus_Careers/job/Auckland---NZL/PwC-Intern-Programme---Assurance---Audit--Wellington-_745810WD-1 |
 | Salesforce | Posted Today |  | Operations Manager | 17 Locations | https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Virginia---Mclean/Operations-Manager_JR351126 |
 | Thermo Fisher | Posted Today |  | Cartridge Operator - Third Shift | Meriden, Connecticut, USA | https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Meriden-Connecticut-USA/Cartridge-Operator---Third-Shift_R-01359240 |
 | Thermo Fisher | Posted Today |  | Cartridge Operator - Third Shift | Meriden, Connecticut, USA | https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Meriden-Connecticut-USA/Cartridge-Operator---Third-Shift_R-01360879 |
@@ -43,7 +44,7 @@
 | Thermo Fisher | Posted Today |  | Operator II, Manufacturing | Lenexa, Kansas, USA | https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Lenexa-Kansas-USA/Operator-II--Manufacturing_R-01360575 |
 | Thermo Fisher | Posted Today |  | Operator II, Manufacturing | Lenexa, Kansas, USA | https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Lenexa-Kansas-USA/Operator-II--Manufacturing_R-01360569 |
 | Thermo Fisher | Posted Today |  | Operator II, Manufacturing - Quality Control Organisms | Lenexa, Kansas, USA | https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Lenexa-Kansas-USA/Operator-II--Manufacturing---Quality-Control-Organisms_R-01360000 |
-| USAA | Posted Today | NEW | Senior Marketing Data Scientist | 6 Locations | https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/San-Antonio-Home-Office-I/Senior-Marketing-Data-Scientist_R0117152 |
+| USAA | Posted Today |  | Senior Marketing Data Scientist | 6 Locations | https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/San-Antonio-Home-Office-I/Senior-Marketing-Data-Scientist_R0117152 |
 | Wells Fargo | Posted Today |  | Branch Manager - The Heights District | 6 Locations | https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/SAN-FRANCISCO-CA/Branch-Manager---The-Heights-District_R-557185 |
 | Wells Fargo | Posted Today |  | Personal Banker Pasadena Branch | SAN GABRIEL, CA | https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/SAN-GABRIEL-CA/Personal-Banker-Pasadena-Branch_R-558350 |
 | Wells Fargo | Posted Today |  | Senior Commercial Loan Closing Specialist | 2 Locations | https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/CHARLOTTE-NC/Senior-Commercial-Loan-Closing-Specialist_R-550688 |
