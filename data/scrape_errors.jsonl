@@ -1,1 +1,2 @@
 {"company": "Charles Schwab", "endpoint": "https://schwab.wd1.myworkdayjobs.com/wday/cxs/schwab/External/jobs", "offset": 0, "status": 422, "error": "422 Client Error: Unprocessable Entity for url: https://schwab.wd1.myworkdayjobs.com/wday/cxs/schwab/External/jobs"}
+{"company": "AT&T", "endpoint": "https://att.wd1.myworkdayjobs.com/wday/cxs/att/ATTGeneral/jobs", "offset": 20, "status": 502, "error": "502 Server Error: Bad Gateway for url: https://att.wd1.myworkdayjobs.com/wday/cxs/att/ATTGeneral/jobs"}
